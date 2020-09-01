@@ -32,9 +32,10 @@ understanding and confidence in modern encryption schemes (see for example
 majority of the use cases, the standard practice in 2020 is to use open standardized 
 algorithms and modes of operation rather than closed-source ones. 
 
+<font size="2">
 <a name="KR11">[KR11]</a> Lars R. Knudsen, Matthew Robshaw: _The Block Cipher Companion_. Information Security and Cryptography, Springer 2011.<br>
 <a name="BR97">[B+97]</a> Mihir Bellare, Anand Desai, E. Jokipii, Phillip Rogaway: _A Concrete Security Treatment of Symmetric Encryption_. FOCS 1997: 394-403.
-
+</font>
 
 **From algorithms to implementations**
 
