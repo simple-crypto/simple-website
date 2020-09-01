@@ -25,7 +25,7 @@ solutions relying on long-term public audits can reach (see for example the case
 or [Keeloq](https://en.wikipedia.org/wiki/KeeLoq)).
 Next, new designs 
 ideas have been introduced in order to prevent such cryptanalysis results (as for example
-surveyed in '[KR11]' for block ciphers). Finally, 
+surveyed in `[KR11]` for block ciphers). Finally, 
 formal definitions and reductions to well understood assumptions have increased the 
 understanding and confidence in modern encryption schemes [?]. As a result, in a vast 
 majority of the use cases, the standard practice in 2020 is to use open standardized 
