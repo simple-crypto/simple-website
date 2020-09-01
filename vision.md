@@ -14,7 +14,7 @@ As illustrated in the following figure for the case of symmetric encryption,
 this possibility to rely on open designs has been driven by three main ingredients.
 
 <br/>
-(/figures/transparency_1.png)
+![algorithmic transparency](/figures/transparency_1.png)
 <br/>
 
 **From algorithms to implementations**
