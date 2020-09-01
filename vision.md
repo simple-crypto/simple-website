@@ -25,13 +25,16 @@ solutions relying on long-term public audits can reach (see for example the case
 or [Keeloq](https://en.wikipedia.org/wiki/KeeLoq)).
 Next, new designs 
 ideas have been introduced in order to prevent such cryptanalysis results (as for example
-surveyed in [`[KR11]`](#KR11) for block ciphers). Finally, 
+surveyed in [\[KR11\]](#KR11) for block ciphers). Finally, 
 formal definitions and reductions to well understood assumptions have increased the 
-understanding and confidence in modern encryption schemes [?]. As a result, in a vast 
+understanding and confidence in modern encryption schemes (see for example
+[\[B+97\]](#B+97) for the case of symmetric encryption). As a result, in a vast 
 majority of the use cases, the standard practice in 2020 is to use open standardized 
 algorithms and modes of operation rather than closed-source ones. 
 
 <a name="KR11">[KR11]</a> Lars R. Knudsen, Matthew Robshaw: _The Block Cipher Companion_. Information Security and Cryptography, Springer 2011.
+<a name="BR97">[B+97]</a> Mihir Bellare, Anand Desai, E. Jokipii, Phillip Rogaway: _A Concrete Security Treatment of Symmetric Encryption_. FOCS 1997: 394-403.
+
 
 **From algorithms to implementations**
 
