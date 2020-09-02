@@ -21,8 +21,8 @@ this possibility to rely on open designs has been driven by three main ingredien
 First, cryptanalysis results against (reverse engineered) closed source algorithms
 have recurrently shown that they rarely reach the level of security that open 
 solutions relying on long-term public audits can reach (see for example the cases of
-[Crypto-1](https://en.wikipedia.org/wiki/Crypto-1), [COMP128](https://en.wikipedia.org/wiki/COMP128) 
-or [Keeloq](https://en.wikipedia.org/wiki/KeeLoq)).
+[Crypto-1](https://en.wikipedia.org/wiki/Crypto-1){:target="_blank"}, [COMP128](https://en.wikipedia.org/wiki/COMP128){:target="_blank"} 
+or [Keeloq](https://en.wikipedia.org/wiki/KeeLoq){:target="_blank"}).
 Next, new designs 
 ideas have been introduced in order to prevent such cryptanalysis results (as for example
 surveyed in [\[KR11\]](#KR11) for block ciphers). Finally, 
