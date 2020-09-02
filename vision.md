@@ -64,7 +64,7 @@ have been introduced, working at different abstraction levels (see for example
 [\[C+99\]](#C+99) and [\[DFS19\]](#DFS19) for one of the first papers on the masking countermeasure and a more recent discussion). 
 Finally, sound definitions
 enabling reductions towards physical assumptions that can be falsified by evaluation 
-laboratories start to be available (see [\[DP08\]](#DP09) and [\[B+20\]](#B+20) for one of the first papers on leakage-resilience
+laboratories start to be available (see [\[DP08\]](#DP08) and [\[B+20\]](#B+20) for one of the first papers on leakage-resilience
 and a more recent discussion). We also refer to the following [invited talk](https://www.youtube.com/watch?v=KdhrsuJT1sE) from Eurocrypt 2019
 for a general overview.
 
