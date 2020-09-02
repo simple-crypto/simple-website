@@ -29,7 +29,7 @@ surveyed in [\[KR11\]](#KR11) for block ciphers). Finally,
 formal definitions and reductions to well analyzed mathematical assumptions have increased the 
 understanding and confidence in modern encryption schemes (see for example
 [\[B+97\]](#B+97) for the case of symmetric encryption). As a result, in a vast 
-majority of the use cases, the recommended practice in 2020 is to use open and standardized 
+majority of the cases, the recommended practice in 2020 is to use open and standardized 
 algorithms together with provably secure modes of operation rather than closed-source ones. 
 
 **From algorithms to implementations**
@@ -66,18 +66,18 @@ Finally, sound definitions
 enabling reductions towards physical assumptions that can be falsified by evaluation 
 laboratories start to be available (see [\[DP08\]](#DP09) and [\[B+20\]](#B+20) for one of the first papers on leakage-resilience
 and a more recent discussion). We also refer to the following [invited talk](https://www.youtube.com/watch?v=KdhrsuJT1sE) from Eurocrypt 2019
-for a more general overview.
+for a general overview.
 
 **Goals and interest of an open implementation approach**
 
-We envision the main goals and the interest of te SIMPLE foundation as follows:
+We envision the main goals and the interest of the SIMPLE foundation as follows:
 
 * <strong><em>Preserving the integrity of open source security technologies</em></strong>. For this purpose, we 
 aim to provide an infrastructure for open source cryptographic hardware and software 
-developments and to maintain a team of expert developers.
+developments and to maintain a team of expert developers with minimum operational cost.
 
 * <strong><em>Improving the long-term security of cryptographic implementations</em></strong>. Our rationale 
-for this purpose is that the continuous and public evaluation process that the SIMPLE 
+for this purpose is that over time, the continuous and public evaluation process that the SIMPLE 
 foundation leverages will lead to better confidence in the security of its open 
 solutions than more time-constrained certifications.
 
