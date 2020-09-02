@@ -1,5 +1,5 @@
 # Contact
 
-** Become a member **
+**Become a member**
 
-** Technical questions **
+**Technical questions**
