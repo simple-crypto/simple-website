@@ -45,8 +45,8 @@ if faults can be injected during the execution of the algorithms [\[BDL97\]](#BD
 In view of the limited (theoretical and practical) understanding of these new physical attack 
 vectors, the first implementations to counteract them have been developed by the industry in a 
 mostly closed source setting. This is for example reflected by current evaluation practice 
-for which making implementation details public may increase the complexity of an
-attack (e.g., as perceived by the [Common Criteria](https://www.commoncriteriaportal.org/){:target="_blank"} framework) 
+for which making implementation details public may increase the "perceived complexity" of an
+attack (e.g., as rated by the [Common Criteria](https://www.commoncriteriaportal.org/){:target="_blank"} framework) 
 and therefore decrease its certification 
 level [\[L16\]](/pdfs/Lomne_16.pdf){:target="_blank"}.
 While these solutions were necessary first steps towards solving
