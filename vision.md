@@ -29,11 +29,11 @@ surveyed in [\[KR11\]](#KR11) for block ciphers). Finally,
 formal definitions and reductions to well analyzed mathematical assumptions have increased the 
 understanding and confidence in modern encryption schemes (see for example
 [\[B+97\]](#B+97) for the case of symmetric encryption). As a result, in a vast 
-majority of the use cases, the recommended practice in 2020 is to use open standardized 
+majority of the use cases, the recommended practice in 2020 is to use open and standardized 
 algorithms and modes of operation rather than closed-source ones. 
 
 <font size="3">
-<a name="BR97">[B+97]</a> Mihir Bellare, Anand Desai, E. Jokipii, Phillip Rogaway: <em>A Concrete Security Treatment of Symmetric Encryption</em>. FOCS 1997: 394-403.<br>
+<a name="B+97">[B+97]</a> Mihir Bellare, Anand Desai, E. Jokipii, Phillip Rogaway: <em>A Concrete Security Treatment of Symmetric Encryption</em>. FOCS 1997: 394-403.<br>
 <a name="KR11">[KR11]</a> Lars R. Knudsen, Matthew Robshaw: <em>The Block Cipher Companion</em>. Information Security and Cryptography, Springer 2011.
 </font>
 
@@ -49,7 +49,12 @@ if faults can be injected during the execution of the algorithms [\[BDL97\]](#BD
 
 In view of the limited (theoretical and practical) understanding of these new physical attack 
 vectors, the first implementations to counteract them have been developed by the industry in a 
-mostly closed source setting [?]. While these solutions were necessary first steps towards solving
+mostly closed source setting. This is for example reflected by current evaluation practice 
+for which making implementation details public may increase the complexity of an
+attack (e.g., as perceived by the [Common Criteria](https://www.commoncriteriaportal.org/){:target="_blank"} framework) 
+and therefore decrease is certification 
+level [\[L16\]](/pdfs/Lomne_16.pdf){:target="_blank"}.
+While these solutions were necessary first steps towards solving
 the embedded security challenge, our vision is that as research advances, the security 
 by obscurity paradigm becomes less justified and its benefits are outweighted by its drawbacks. 
 As for the case of cryptographic algorithms, and as illustrated in the right part of the previous figure for 
