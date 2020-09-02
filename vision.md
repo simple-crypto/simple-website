@@ -47,7 +47,7 @@ vectors, the first implementations to counteract them have been developed by the
 mostly closed source setting. This is for example reflected by current evaluation practice 
 for which making implementation details public may increase the complexity of an
 attack (e.g., as perceived by the [Common Criteria](https://www.commoncriteriaportal.org/){:target="_blank"} framework) 
-and therefore decrease is certification 
+and therefore decrease its certification 
 level [\[L16\]](/pdfs/Lomne_16.pdf){:target="_blank"}.
 While these solutions were necessary first steps towards solving
 the embedded security challenge, <strong><em>our vision is that as research advances, the security 
@@ -68,6 +68,14 @@ laboratories start to be available (see [\[DP08\]](#DP09) and [\[B+20\]](#B+20) 
 and a more recent discussion).
 
 **Goals and interest of an open implementation approach**
+
+We envision the main goals and the interest of te SIMPLE foundation as follows:
+
+* BLA
+
+* BLA
+
+* BLA
 
 **References**
 
