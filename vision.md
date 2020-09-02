@@ -1,4 +1,4 @@
-# Transparency as a measure of maturity
+# Vision: transparency as a measure of maturity
 
 **The case of cryptographic algorithms**
 
