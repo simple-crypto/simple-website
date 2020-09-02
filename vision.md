@@ -33,8 +33,8 @@ majority of the use cases, the recommended practice in 2020 is to use open and s
 algorithms and modes of operation rather than closed-source ones. 
 
 <font size="3">
-<a name="B+97">[B+97]</a> Mihir Bellare, Anand Desai, E. Jokipii, Phillip Rogaway: <em>A Concrete Security Treatment of Symmetric Encryption</em>. FOCS 1997: 394-403.<br>
-<a name="KR11">[KR11]</a> Lars R. Knudsen, Matthew Robshaw: <em>The Block Cipher Companion</em>. Information Security and Cryptography, Springer 2011.
+<a name="KR11">[KR11]</a> Lars R. Knudsen, Matthew Robshaw: <em>The Block Cipher Companion</em>. Information Security and Cryptography, Springer 2011.<br>
+<a name="B+97">[B+97]</a> Mihir Bellare, Anand Desai, E. Jokipii, Phillip Rogaway: <em>A Concrete Security Treatment of Symmetric Encryption</em>. FOCS 1997: 394-403.
 </font>
 
 **From algorithms to implementations**
@@ -62,14 +62,30 @@ the case of side-channel attacks, the increased relevance of open solutions for 
 implementations is driven by three main ingredients. 
 
 First, cryptanalysis results against unprotected implementations are now well documented and 
-can be used to assess security in a close to worst-case manner [?]. Next, many countermeasures
-have been introduced, working at different abstraction levels [?]. Finally, sound definitional 
+can be used to assess security in a close to worst-case manner (see for example [\[BS20\]](#BS20) for a
+recent discussion of the relevance of open source designs for this purpose). 
+Next, many countermeasures
+have been introduced, working at different abstraction levels (see for example
+[\[C+99\]](#C+99) and [\[DFS19\]](#DFS19) for one of the first papers on the masking countermeasure and a more recent discussion). 
+Finally, sound definitional 
 framework enabling reductions towards physical assumptions that can be falsified by evaluation 
-laboratories start to be available [?].
+laboratories start to be available (see [\[DP08\]](#DP09) and [\[B+20\]](#B+20) for one of the first papers on leakage-resilience
+and a more recent discussion).
 
 <font size="3">
 <a name="KJJ99">[KJJ99]</a> Paul C. Kocher, Joshua Jaffe, Benjamin Jun: <em>Differential Power Analysis</em>. CRYPTO 1999: 388-397.<br>
-<a name="BDL97">[BDL97]</a> Dan Boneh, Richard A. DeMillo, Richard J. Lipton: <em>On the Importance of Checking Cryptographic Protocols for Faults</em>. EUROCRYPT 1997: 37-51.
+<a name="BDL97">[BDL97]</a> Dan Boneh, Richard A. DeMillo, Richard J. Lipton: <em>On the Importance of Checking Cryptographic Protocols for Faults</em>. EUROCRYPT 1997: 37-51.<br>
+<a name="BS20">[BS20]</a> Olivier Bronchain, François-Xavier Standaert: <em>Side-Channel Countermeasures' Dissection and the Limits 
+of Closed Source Security Evaluations</em>. IACR Trans. Cryptogr. Hardw. Embed. Syst. 2020(2): 1-25 (2020).<br>
+<a name="C+99">[C+99]</a> Suresh Chari, Charanjit S. Jutla, Josyula R. Rao, Pankaj Rohatgi:
+<em>Towards Sound Approaches to Counteract Power-Analysis Attacks</em>. CRYPTO 1999: 398-412.<br>
+<a name="DFS19">[DFS19]</a> Alexandre Duc, Sebastian Faust, François-Xavier Standaert:
+<em>Making Masking Security Proofs Concrete (Or How to Evaluate the Security of Any Leaking Device)</em>. J. Cryptology 32(4): 1263-1297 (2019).<br>
+<a name="DP08">[DP08]</a> Stefan Dziembowski, Krzysztof Pietrzak: <em>Leakage-Resilient Cryptography</em>. FOCS 2008: 293-302.<br>
+<a name="B+20">[B+20]</a> Davide Bellizia, Olivier Bronchain, Gaëtan Cassiers, Vincent Grosso, Chun Guo, Charles Momin, 
+Olivier Pereira, Thomas Peters, François-Xavier Standaert:
+<em>Mode-Level vs. Implementation-Level Physical Security in Symmetric Cryptography - A Practical Guide Through the Leakage-Resistance Jungle</em>. 
+CRYPTO (1) 2020: 369-400.
 </font>
 
 **Goals and intererst of an open implementation approach**
