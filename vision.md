@@ -26,10 +26,10 @@ or [Keeloq](https://en.wikipedia.org/wiki/KeeLoq)).
 Next, new designs 
 ideas have been introduced in order to prevent such cryptanalysis results (as for example
 surveyed in [\[KR11\]](#KR11) for block ciphers). Finally, 
-formal definitions and reductions to well understood assumptions have increased the 
+formal definitions and reductions to well analyzed mathematical assumptions have increased the 
 understanding and confidence in modern encryption schemes (see for example
 [\[B+97\]](#B+97) for the case of symmetric encryption). As a result, in a vast 
-majority of the use cases, the standard practice in 2020 is to use open standardized 
+majority of the use cases, the recommended practice in 2020 is to use open standardized 
 algorithms and modes of operation rather than closed-source ones. 
 
 <font size="3">
