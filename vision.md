@@ -33,8 +33,8 @@ majority of the use cases, the recommended practice in 2020 is to use open stand
 algorithms and modes of operation rather than closed-source ones. 
 
 <font size="3">
-<a name="BR97">[B+97]</a> Mihir Bellare, Anand Desai, E. Jokipii, Phillip Rogaway:_A Concrete Security Treatment of Symmetric Encryption_. FOCS 1997: 394-403.<br>
-<a name="KR11">[KR11]</a> Lars R. Knudsen, Matthew Robshaw:_The Block Cipher Companion_. Information Security and Cryptography, Springer 2011.
+<a name="BR97">[B+97]</a> Mihir Bellare, Anand Desai, E. Jokipii, Phillip Rogaway: <em>A Concrete Security Treatment of Symmetric Encryption</em>. FOCS 1997: 394-403.<br>
+<a name="KR11">[KR11]</a> Lars R. Knudsen, Matthew Robshaw: <em>The Block Cipher Companion</em>. Information Security and Cryptography, Springer 2011.
 </font>
 
 **From algorithms to implementations**
@@ -63,8 +63,8 @@ framework enabling reductions towards physical assumptions that can be falsified
 laboratories start to be available [?].
 
 <font size="3">
-<a name="KJJ99">[KJJ99]</a> Paul C. Kocher, Joshua Jaffe, Benjamin Jun:_Differential Power Analysis_. CRYPTO 1999: 388-397.<br>
-<a name="BDL97">[BDL97]</a> Dan Boneh, Richard A. DeMillo, Richard J. Lipton:_On the Importance of Checking Cryptographic Protocols for Faults (Extended Abstract)_. EUROCRYPT 1997: 37-51.
+<a name="KJJ99">[KJJ99]</a> Paul C. Kocher, Joshua Jaffe, Benjamin Jun: <em>Differential Power Analysis</em>. CRYPTO 1999: 388-397.<br>
+<a name="BDL97">[BDL97]</a> Dan Boneh, Richard A. DeMillo, Richard J. Lipton: <em>On the Importance of Checking Cryptographic Protocols for Faults</em>. EUROCRYPT 1997: 37-51.
 </font>
 
 **Goals and intererst of an open implementation approach**
