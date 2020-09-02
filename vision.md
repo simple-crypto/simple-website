@@ -36,7 +36,7 @@ algorithms together with provably secure modes of operation rather than closed-s
 
 Research progresses have been an enabling factor for the development and deployment of open cryptographic 
 algorithms. Yet, these progresses also encountered new challenges with the first public 
-reports of physical attacks in the late 1990s. In his seminal work on Differential Power 
+reports of physical attacks in the late 1990s. In their seminal work on Differential Power 
 Analysis, Kocher at al. showed that without special care, cryptographic implementations 
 leak "side-channel information" that can be easily exploited to recover the key material of 
 cryptographic algorithms [\[KJJ99\]](#KJJ99). Boneh et al. showed that a similar issue occurs 
@@ -52,6 +52,9 @@ level [\[L16\]](/pdfs/Lomne_16.pdf){:target="_blank"}.
 While these solutions were necessary first steps towards solving
 the embedded security challenge, <strong><em>our vision is that as research advances, the security 
 by obscurity paradigm becomes less justified and its benefits are outweighted by its drawbacks</em></strong>. 
+That is, while a closed source approach can limit the adversary's understanding of the target
+implementations as long as their specifications remain opaque, it also limits the public
+understanding of the mechanims on which security relies, and therefore the possibility to optimize them.
 As for the case of cryptographic algorithms, and as illustrated in the right part of the previous figure for 
 the case of side-channel attacks, the increased relevance of open solutions for cryptographic
 implementations is driven by three main ingredients. 
