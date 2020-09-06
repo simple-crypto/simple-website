@@ -85,7 +85,7 @@ for this purpose is that over time, the continuous and public evaluation process
 Foundation leverages will lead to better confidence in the security of its open 
 solutions than more time-constrained certifications.
 
-* <strong><em>Encouraging public audits</em></strong>. Following established practice in cryptography and
+* <strong><em>Encouraging public audits</em></strong>. Following an established practice in cryptography and
 security research, we aim to complement all the solutions we implement with challenges and to reward the 
 possible detection of bugs in our designs with bug bounties.
 
