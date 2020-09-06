@@ -2,15 +2,16 @@
 
 **The case of cryptographic algorithms**
 
-One of the founding bases of modern cryptography is [Kerckhoff’s principles](https://en.wikipedia.org/wiki/Kerckhoffs_principle): 
+One of the founding bases of modern cryptography is [Kerckhoff’s principles](https://en.wikipedia.org/wiki/Kerckhoffs_principle){:target="_blank"}: 
 a cryptosystem should be secure even if everything about the system, except the key, 
 is public knowledge. This concept can be opposed to so-called “security by obscurity”, 
 which rather relies on the secrecy of both the algorithms and implementations used
-in a security system.
+in an information system.
 
-Since the early 1990s, Kerckhoff’s principles have been successfully
+Since the early 1980s, Kerckhoff’s principles have been successfully
 applied in the design of many cryptographic algorithms. Research progresses have demonstrated that 
-open designs can lead to secure solutions based on sound mathematical principles. 
+open designs can lead to secure solutions thanks to the large amount of scrutiny
+that their public nature enables.
 As illustrated in the left part of the following figure for the case of symmetric encryption, 
 this possibility to rely on open designs has been driven by three main ingredients.
 
@@ -23,21 +24,21 @@ have recurrently shown that they rarely reach the level of security that open
 solutions relying on long-term public audits can reach (see for example the cases of
 [Crypto-1](https://en.wikipedia.org/wiki/Crypto-1){:target="_blank"}, [COMP128](https://en.wikipedia.org/wiki/COMP128){:target="_blank"} 
 or [Keeloq](https://en.wikipedia.org/wiki/KeeLoq){:target="_blank"}).
-Next, new designs 
+Next, new design
 ideas have been introduced in order to prevent such cryptanalysis results (as for example
 surveyed in [\[KR11\]](#KR11) for block ciphers). Finally, 
 formal definitions and reductions to well analyzed mathematical assumptions have increased the 
 understanding and confidence in modern encryption schemes (see for example
 [\[B+97\]](#B+97) for the case of symmetric encryption). As a result, in a vast 
 majority of the cases, the recommended practice in 2020 is to use open and standardized 
-algorithms together with provably secure modes of operation rather than closed-source ones. 
+primitives together with provably secure modes of operation rather than closed-source ones. 
 
 **From algorithms to implementations**
 
 Research progresses have been an enabling factor for the development and deployment of open cryptographic 
 algorithms. Yet, these progresses also encountered new challenges with the first public 
 reports of physical attacks in the late 1990s. In their seminal work on Differential Power 
-Analysis, Kocher at al. showed that without special care, cryptographic implementations 
+Analysis, Kocher at al. showed that, without special care, cryptographic implementations 
 leak "side-channel information" that can be easily exploited to recover the key material of 
 cryptographic algorithms [\[KJJ99\]](#KJJ99). Boneh et al. showed that a similar issue occurs 
 if faults can be injected during the execution of the algorithms [\[BDL97\]](#BDL97). 
@@ -45,11 +46,11 @@ if faults can be injected during the execution of the algorithms [\[BDL97\]](#BD
 In view of the limited (theoretical and practical) understanding of these new physical attack 
 vectors, the first implementations to counteract them have been developed by the industry in a 
 mostly closed source setting. This is for example reflected by current evaluation practice 
-for which making implementation details public may increase the "perceived complexity" of an
+for which requiring implementation details may increase the "perceived complexity" of an
 attack (e.g., as rated by the [Common Criteria](https://www.commoncriteriaportal.org/){:target="_blank"} framework) 
 and therefore decrease its certification 
 level [\[L16\]](/pdfs/Lomne_16.pdf){:target="_blank"}.
-While these solutions were necessary first steps towards solving
+While these approaches were necessary first steps towards solving
 the embedded security challenge, <strong><em>our vision is that as research advances, the security 
 by obscurity paradigm becomes less justified and its benefits are outweighted by its drawbacks</em></strong>. 
 That is, while a closed source approach can limit the adversary's understanding of the target
@@ -68,7 +69,7 @@ have been introduced, working at different abstraction levels (see for example
 Finally, sound definitions
 enabling reductions towards physical assumptions that can be falsified by evaluation 
 laboratories start to be available (see [\[DP08\]](#DP08) and [\[B+20\]](#B+20) for one of the first papers on leakage-resilience
-and a more recent discussion). We also refer to the following [invited talk](https://www.youtube.com/watch?v=KdhrsuJT1sE) from Eurocrypt 2019
+and a more recent discussion). We also refer to the following [invited talk](https://www.youtube.com/watch?v=KdhrsuJT1sE){:target="_blank"}
 for a general overview.
 
 **Goals and interest of an open implementation approach**
