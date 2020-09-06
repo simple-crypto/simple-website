@@ -37,7 +37,7 @@ primitives together with provably secure modes of operation rather than closed-s
 
 Research progresses have been an enabling factor for the development and deployment of open cryptographic 
 algorithms. Yet, these progresses also encountered new challenges with the first public 
-reports of physical attacks in the late 1990s. In their seminal work on Differential Power 
+reports of physical attacks in the late 1990s. For example, in their seminal work on Differential Power 
 Analysis, Kocher at al. showed that, without special care, cryptographic implementations 
 leak "side-channel information" that can be easily exploited to recover the key material of 
 cryptographic algorithms [\[KJJ99\]](#KJJ99). Boneh et al. showed that a similar issue occurs 
@@ -84,6 +84,10 @@ developments and to maintain a team of expert developers with minimum operationa
 for this purpose is that over time, the continuous and public evaluation process that the SIMPLE 
 Foundation leverages will lead to better confidence in the security of its open 
 solutions than more time-constrained certifications.
+
+* <strong><em>Encouraging public audits</em></strong>. Following established practice in cryptography and
+security research, we aim to complement all the solutions we implement with challenges and to reward the 
+possible detection of bugs in our designs with bug bounties.
 
 * <strong><em>Complementing the industrial ecosystem</em></strong>. As a non-profit organisation, 
 the SIMPLE Foundation does not aim to compete with established industrial actors. 
