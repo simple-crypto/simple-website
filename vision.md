@@ -87,7 +87,7 @@ solutions than more time-constrained certifications.
 
 * <strong><em>Encouraging public audits</em></strong>. Following an established practice in cryptography and
 security research, we aim to complement all the solutions we implement with challenges and to reward the 
-possible detection of bugs in our designs with bug bounties.
+possible detection of security flaws in our designs with bug bounties.
 
 * <strong><em>Complementing the industrial ecosystem</em></strong>. As a non-profit organisation, 
 the SIMPLE Foundation does not aim to compete with established industrial actors. 
