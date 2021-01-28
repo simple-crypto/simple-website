@@ -74,15 +74,15 @@ for a general overview.
 
 **Goals and interest of an open implementation approach**
 
-We envision the main goals and the interest of the SIMPLE Foundation as follows:
+We envision the main goals and the interest of the SIMPLE-crypto Association as follows:
 
 * <strong><em>Preserving the integrity of open source security technologies</em></strong>. For this purpose, we 
 aim to provide an infrastructure for open source cryptographic hardware and software 
 developments and to maintain a team of expert developers with minimum operational cost.
 
 * <strong><em>Improving the long-term security of cryptographic implementations</em></strong>. Our rationale 
-for this purpose is that over time, the continuous and public evaluation process that the SIMPLE 
-Foundation leverages will lead to better confidence in the security of its open 
+for this purpose is that over time, the continuous and public evaluation process that the SIMPLE-crypto
+Association leverages will lead to better confidence in the security of its open 
 solutions than more time-constrained certifications.
 
 * <strong><em>Encouraging public audits</em></strong>. Following an established practice in cryptography and
