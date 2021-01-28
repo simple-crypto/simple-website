@@ -90,7 +90,7 @@ security research, we aim to complement all the solutions we implement with chal
 possible detection of security flaws in our designs with bug bounties.
 
 * <strong><em>Complementing the industrial ecosystem</em></strong>. As a non-profit organisation, 
-the SIMPLE Foundation does not aim to compete with established industrial actors. 
+the SIMPLE-crypto association does not aim to compete with established industrial actors. 
 We rather see the development of secure cryptographic implementations as becoming 
 so specialized that amortizing a part of its development efforts becomes justified, 
 as it was in the past for cryptographic algorithms, but with more need of continuous 
