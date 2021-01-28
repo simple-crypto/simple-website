@@ -74,14 +74,14 @@ for a general overview.
 
 **Goals and interest of an open implementation approach**
 
-We envision the main goals and the interest of the SIMPLE-crypto Association as follows:
+We envision the main goals and the interest of the SIMPLE-Crypto Association as follows:
 
 * <strong><em>Preserving the integrity of open source security technologies</em></strong>. For this purpose, we 
 aim to provide an infrastructure for open source cryptographic hardware and software 
 developments and to maintain a team of expert developers with minimum operational cost.
 
 * <strong><em>Improving the long-term security of cryptographic implementations</em></strong>. Our rationale 
-for this purpose is that over time, the continuous and public evaluation process that the SIMPLE-crypto
+for this purpose is that over time, the continuous and public evaluation process that the SIMPLE-Crypto
 Association leverages will lead to better confidence in the security of its open 
 solutions than more time-constrained certifications.
 
@@ -90,7 +90,7 @@ security research, we aim to complement all the solutions we implement with chal
 possible detection of security flaws in our designs with bug bounties.
 
 * <strong><em>Complementing the industrial ecosystem</em></strong>. As a non-profit organisation, 
-the SIMPLE-crypto association does not aim to compete with established industrial actors. 
+the SIMPLE-Crypto association does not aim to compete with established industrial actors. 
 We rather see the development of secure cryptographic implementations as becoming 
 so specialized that amortizing a part of its development efforts becomes justified, 
 as it was in the past for cryptographic algorithms, but with more need of continuous 
