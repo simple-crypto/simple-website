@@ -4,6 +4,6 @@
 
 **Project segments**
 
-*Side-channel secure software implementations
+* _Side-channel secure software implementations_
 
-*Side-channel secure hardware implementations
+* _Side-channel secure hardware implementations_
