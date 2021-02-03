@@ -92,9 +92,13 @@ possible detection of security flaws in our designs with bug bounties.
 * <strong><em>Complementing the industrial ecosystem</em></strong>. As a non-profit organisation, 
 the SIMPLE-Crypto association does not aim to compete with established industrial actors. 
 We rather see the development of secure cryptographic implementations as becoming 
-so specialized that amortizing a part of its development efforts becomes justified, 
+so specialized that pooling a part of its development in a joint effort
+becomes justified, 
 as it was in the past for cryptographic algorithms, but with more need of continuous 
 development.  
+
+We note that this model is well suited to cryptographic implementations with
+embedded security guarantees but is extendable to other optimization goals.
 
 **References**
 
