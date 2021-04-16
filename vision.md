@@ -12,12 +12,8 @@ Since the early 1980s, Kerckhoff’s principles have been successfully
 applied in the design of many cryptographic algorithms. Research progresses have demonstrated that 
 open designs can lead to secure solutions thanks to the large amount of scrutiny
 that their public nature enables.
-As illustrated in the left part of the following figure for the case of symmetric encryption, 
+At high level, and taking the case of symmetric encryption for illustration, 
 this possibility to rely on open designs has been driven by three main ingredients.
-
-<br/>
-![transparency](/figures/transparency.png)
-<br/>
 
 First, cryptanalysis results against (reverse engineered) closed source algorithms
 have recurrently shown that they rarely reach the level of security that open 
@@ -28,16 +24,21 @@ Next, new design
 ideas have been introduced in order to prevent such cryptanalysis results (as for example
 surveyed in [\[KR11\]](#KR11) for block ciphers). Finally, 
 formal definitions and reductions to well analyzed mathematical assumptions have increased the 
-understanding and confidence in modern encryption schemes (see for example
-[\[B+97\]](#B+97) for the case of symmetric encryption). As a result, in a vast 
+understanding and confidence in modern encryption schemes [\[KL14\]](#KL14). As a result, in a vast 
 majority of the cases, the recommended practice in 2020 is to use open and standardized 
 primitives together with provably secure modes of operation rather than closed-source ones. 
 
 **From algorithms to implementations**
 
 Research progresses have been an enabling factor for the development and deployment of open cryptographic 
-algorithms. Yet, these progresses also encountered new challenges with the first public 
-reports of physical attacks in the late 1990s. For example, in their seminal work on Differential Power 
+algorithms. As a result, open source implementations have also become standard for many
+basic cryptographic functionalities: see for example the [SSL](https://en.wikipedia.org/wiki/OpenSSL)
+and [NaCl](https://en.wikipedia.org/wiki/NaCl_(software)) libraries.
+Yet, and despite these advances, open source implementations are not yet available for
+various advanced cryptographic functionalities. 
+
+One such functionality is embedded security against physical attacks. 
+For example, in their seminal work on Differential Power 
 Analysis, Kocher at al. showed that, without special care, cryptographic implementations 
 leak "side-channel information" that can be easily exploited to recover the key material of 
 cryptographic algorithms [\[KJJ99\]](#KJJ99). Boneh et al. showed that a similar issue occurs 
@@ -45,7 +46,7 @@ if faults can be injected during the execution of the algorithms [\[BDL97\]](#BD
 
 In view of the limited (theoretical and practical) understanding of these new physical attack 
 vectors, the first implementations to counteract them have been developed by the industry in a 
-mostly closed source setting. This is for example reflected by current evaluation practice 
+mostly closed source setting. This situation is reflected by current evaluation practice 
 for which requiring implementation details may increase the "perceived complexity" of an
 attack (e.g., as rated by the [Common Criteria](https://www.commoncriteriaportal.org/){:target="_blank"} framework) 
 and therefore decrease its certification 
@@ -56,21 +57,8 @@ by obscurity paradigm becomes less justified and its benefits are outweighted by
 That is, while a closed source approach can limit the adversary's understanding of the target
 implementations as long as their specifications remain opaque, it also limits the public
 understanding of the mechanims on which security relies, and therefore the possibility to optimize them.
-As for cryptographic algorithms, and as illustrated in the right part of the previous figure for 
-the case of side-channel attacks, the increased relevance of open solutions for cryptographic
-implementations is driven by three main ingredients. 
-
-First, cryptanalysis results against unprotected implementations are now well documented and 
-can be used to assess security in a close to worst-case manner (see for example [\[BS20\]](#BS20) for a
-recent discussion of the relevance of open source designs for this purpose). 
-Next, many countermeasures
-have been introduced, working at different abstraction levels (see for example
-[\[C+99\]](#C+99) and [\[DFS19\]](#DFS19) for one of the first papers on the masking countermeasure and a more recent discussion). 
-Finally, sound definitions
-enabling reductions towards physical assumptions that can be falsified by evaluation 
-laboratories start to be available (see [\[DP08\]](#DP08) and [\[B+20\]](#B+20) for one of the first papers on leakage-resilience
-and a more recent discussion). We also refer to the following [invited talk](https://www.youtube.com/watch?v=KdhrsuJT1sE){:target="_blank"}
-for a general overview.
+We further expect this model to be well suited to cryptographic implementations optimized for various goals
+(i.e., beyond the embedded security ones).
 
 **Goals and interest of an open implementation approach**
 
@@ -97,8 +85,6 @@ becomes justified,
 as it was in the past for cryptographic algorithms, but with more need of continuous 
 development.  
 
-We note that this model is well suited to cryptographic implementations with
-embedded security guarantees but is extendable to other optimization goals.
 
 **References**
 
@@ -116,6 +102,7 @@ of Closed Source Security Evaluations</em>. IACR Trans. Cryptogr. Hardw. Embed. 
 <a name="DFS19">[DFS19]</a> Alexandre Duc, Sebastian Faust, François-Xavier Standaert:
 <em>Making Masking Security Proofs Concrete (Or How to Evaluate the Security of Any Leaking Device)</em>. J. Cryptology 32(4): 1263-1297 (2019).<br>
 <a name="DP08">[DP08]</a> Stefan Dziembowski, Krzysztof Pietrzak: <em>Leakage-Resilient Cryptography</em>. FOCS 2008: 293-302.<br>
+<a name="KL14">[KL14]</a> Jonathan Katz, Yehuda Lindell: <em>Introduction to Modern Cryptography</em>. CRC Press 2014.<br>
 <a name="KR11">[KR11]</a> Lars R. Knudsen, Matthew Robshaw: <em>The Block Cipher Companion</em>. Information Security and Cryptography, Springer 2011.<br>
 <a name="KJJ99">[KJJ99]</a> Paul C. Kocher, Joshua Jaffe, Benjamin Jun: <em>Differential Power Analysis</em>. CRYPTO 1999: 388-397.
 </font>
