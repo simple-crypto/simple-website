@@ -5,15 +5,15 @@
 One of the founding bases of modern cryptography is [Kerckhoff’s principles](https://en.wikipedia.org/wiki/Kerckhoffs_principle){:target="_blank"}: 
 a cryptosystem should be secure even if everything about the system, except the key, 
 is public knowledge. This concept can be opposed to so-called “security by obscurity”, 
-which rather relies on the secrecy of both the algorithms and implementations used
+which rather relies on the secrecy of the algorithms and protocols used
 in an information system.
 
 Since the early 1980s, Kerckhoff’s principles have been successfully
-applied in the design of many cryptographic algorithms and protocols. Research progresses have demonstrated that 
+applied in the design of many cryptographic schemes. Research progresses have demonstrated that 
 open designs can lead to secure solutions thanks to the large amount of scrutiny
 that their public nature enables.
 At a high level, and taking the case of symmetric encryption for illustration, 
-this possibility to rely on open designs has been driven by three main ingredients:<br>
+this possibility to rely on open designs has been driven by three main ingredients.
 First, cryptanalysis results against (reverse engineered) closed source algorithms
 have recurrently shown that they rarely reach the level of security that open 
 solutions relying on long-term public audits can reach (see for example the cases of
@@ -30,11 +30,10 @@ primitives together with provably secure modes of operation rather than closed-s
 
 Research progresses have been an enabling factor for the development and deployment of open cryptographic 
 algorithms and protocols. As a result, open source implementations have also become standard for 
-different cryptographic functionalities: see for example the [SSL](https://en.wikipedia.org/wiki/OpenSSL)
-and [NaCl](https://en.wikipedia.org/wiki/NaCl_(software)) libraries.
+different cryptographic functionalities: see for example the [SSL](https://en.wikipedia.org/wiki/OpenSSL){:target="_blank"} 
+and [NaCl](https://en.wikipedia.org/wiki/NaCl_(software){:target="_blank"} ) libraries.
 Yet, and despite thes progresses, open source implementations of more advanced functionalities
-or ensuring advanced features are not yet systematically available.
-
+or ensuring advanced security features are not yet systematically available.
 One example of such advanced features is embedded security against physical attacks. 
 In their seminal work on Differential Power Analysis, Kocher at al. showed that, without special care, cryptographic implementations 
 leak "side-channel information" that can be easily exploited to recover the key material of 
@@ -72,7 +71,8 @@ developments and to maintain a team of expert developers with minimum operationa
 
 * <strong><em>Encouraging public audits</em></strong>. Following an established practice in cryptography and
 security research, we aim to combine all the solutions we implement with challenges based on public data sets and to reward the 
-possible detection of security flaws in our designs with bug bounties.
+possible detection of security flaws in our designs with bug bounties. We will also make all our security analysis
+tools available under open source licenses.
 
 * <strong><em>Complementing the industrial ecosystem</em></strong>. As a non-profit organisation, 
 the SIMPLE-Crypto association does not aim to compete with established industrial actors. 
@@ -81,7 +81,7 @@ so specialized that pooling a part of its development in a joint effort
 becomes justified, as it was in the past for cryptographic algorithms, but with more need of continuous 
 development. 
 
-* <strong><em>Performing applied research on cryptographic implementations</em>. The primary focus of our developments
+* <strong><em>Performing applied research on cryptographic implementations</em></strong>. The primary focus of our developments
 being on security solutions with strong security guarantees, the association aims to follow theoretical
 advances in the field and to contribute on their integration in order to make these advances more readily
 exploitable by third parties.
@@ -89,19 +89,7 @@ exploitable by third parties.
 **References**
 
 <font size="3">
-<a name="B+97">[B+97]</a> Mihir Bellare, Anand Desai, E. Jokipii, Phillip Rogaway: <em>A Concrete Security Treatment of Symmetric Encryption</em>. FOCS 1997: 394-403.<br>
-<a name="B+20">[B+20]</a> Davide Bellizia, Olivier Bronchain, Gaëtan Cassiers, Vincent Grosso, Chun Guo, Charles Momin, 
-Olivier Pereira, Thomas Peters, François-Xavier Standaert:
-<em>Mode-Level vs. Implementation-Level Physical Security in Symmetric Cryptography - A Practical Guide Through the Leakage-Resistance Jungle</em>. 
-CRYPTO (1) 2020: 369-400.<br>
 <a name="BDL97">[BDL97]</a> Dan Boneh, Richard A. DeMillo, Richard J. Lipton: <em>On the Importance of Checking Cryptographic Protocols for Faults</em>. EUROCRYPT 1997: 37-51.<br>
-<a name="BS20">[BS20]</a> Olivier Bronchain, François-Xavier Standaert: <em>Side-Channel Countermeasures' Dissection and the Limits 
-of Closed Source Security Evaluations</em>. IACR Trans. Cryptogr. Hardw. Embed. Syst. 2020(2): 1-25 (2020).<br>
-<a name="C+99">[C+99]</a> Suresh Chari, Charanjit S. Jutla, Josyula R. Rao, Pankaj Rohatgi:
-<em>Towards Sound Approaches to Counteract Power-Analysis Attacks</em>. CRYPTO 1999: 398-412.<br>
-<a name="DFS19">[DFS19]</a> Alexandre Duc, Sebastian Faust, François-Xavier Standaert:
-<em>Making Masking Security Proofs Concrete (Or How to Evaluate the Security of Any Leaking Device)</em>. J. Cryptology 32(4): 1263-1297 (2019).<br>
-<a name="DP08">[DP08]</a> Stefan Dziembowski, Krzysztof Pietrzak: <em>Leakage-Resilient Cryptography</em>. FOCS 2008: 293-302.<br>
 <a name="KL14">[KL14]</a> Jonathan Katz, Yehuda Lindell: <em>Introduction to Modern Cryptography</em>. CRC Press 2014.<br>
 <a name="KR11">[KR11]</a> Lars R. Knudsen, Matthew Robshaw: <em>The Block Cipher Companion</em>. Information Security and Cryptography, Springer 2011.<br>
 <a name="KJJ99">[KJJ99]</a> Paul C. Kocher, Joshua Jaffe, Benjamin Jun: <em>Differential Power Analysis</em>. CRYPTO 1999: 388-397.
