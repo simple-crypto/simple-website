@@ -53,8 +53,6 @@ by obscurity paradigm becomes less justified and its benefits are outweighted by
 That is, while a closed source approach can limit the adversary's understanding of the target
 implementations as long as their specifications remain opaque, it also limits the public
 understanding of the mechanims on which security relies, and therefore the possibility to optimize them.
-We expect this model to be well suited to cryptographic implementations optimized for various goals
-(i.e., beyond the embedded security ones).
 
 **Goals and interest of an open implementation approach**
 
@@ -85,6 +83,9 @@ development.
 being on security solutions with strong security guarantees, the association aims to follow theoretical
 advances in the field and to contribute on their integration in order to make these advances more readily
 exploitable by third parties.
+
+We expect such an open approach to be well suited suited to cryptographic implementations optimized for various goals
+(i.e., beyond the embedded security ones).
 
 **References**
 
