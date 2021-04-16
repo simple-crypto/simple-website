@@ -4,6 +4,5 @@
 
 **Projects**
 
-* _Side-channel secure software implementations of the AES_
+* _SCALib_ 
 
-* _Side-channel secure hardware implementations of the AES_
