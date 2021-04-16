@@ -64,8 +64,8 @@ Association leverages will lead to better confidence in the security of its open
 solutions than more time-constrained certifications.
 
 * <strong><em>Developing and preserving the integrity of open source security technologies</em></strong>. For this purpose, we 
-aim to provide an infrastructure for open source cryptographic hardware and software 
-developments and to maintain a team of expert developers with minimum operational cost.
+provide an infrastructure for open source cryptographic hardware and software 
+developments and maintain a team of expert developers with minimum operational cost.
 
 * <strong><em>Encouraging public audits</em></strong>. Following an established practice in cryptography and
 security research, we aim to combine all the solutions we implement with challenges based on public data sets and to reward the 
