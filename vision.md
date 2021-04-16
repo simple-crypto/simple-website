@@ -30,8 +30,8 @@ primitives together with provably secure modes of operation rather than closed-s
 
 Research progresses have been an enabling factor for the development and deployment of open cryptographic 
 algorithms and protocols. As a result, open source implementations have also become standard for 
-different cryptographic functionalities: see for example the [SSL](https://en.wikipedia.org/wiki/OpenSSL){:target="_blank"} 
-and [NaCl](https://en.wikipedia.org/wiki/NaCl_(software){:target="_blank"} ) libraries.
+different cryptographic functionalities: see for example the [OpenSSL](https://en.wikipedia.org/wiki/OpenSSL){:target="_blank"} 
+and [NaCl](https://en.wikipedia.org/wiki/NaCl_(software)){:target="_blank"} libraries.
 Yet, and despite thes progresses, open source implementations of more advanced functionalities
 or ensuring advanced security features are not yet systematically available.
 One example of such advanced features is embedded security against physical attacks. 
