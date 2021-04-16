@@ -9,19 +9,17 @@ which rather relies on the secrecy of both the algorithms and implementations us
 in an information system.
 
 Since the early 1980s, Kerckhoff’s principles have been successfully
-applied in the design of many cryptographic algorithms. Research progresses have demonstrated that 
+applied in the design of many cryptographic algorithms and protocols. Research progresses have demonstrated that 
 open designs can lead to secure solutions thanks to the large amount of scrutiny
 that their public nature enables.
-At high level, and taking the case of symmetric encryption for illustration, 
-this possibility to rely on open designs has been driven by three main ingredients.
-
+At a high level, and taking the case of symmetric encryption for illustration, 
+this possibility to rely on open designs has been driven by three main ingredients:<br>
 First, cryptanalysis results against (reverse engineered) closed source algorithms
 have recurrently shown that they rarely reach the level of security that open 
 solutions relying on long-term public audits can reach (see for example the cases of
 [Crypto-1](https://en.wikipedia.org/wiki/Crypto-1){:target="_blank"}, [COMP128](https://en.wikipedia.org/wiki/COMP128){:target="_blank"} 
 or [Keeloq](https://en.wikipedia.org/wiki/KeeLoq){:target="_blank"}).
-Next, new design
-ideas have been introduced in order to prevent such cryptanalysis results (as for example
+Next, new design ideas have been introduced in order to prevent such cryptanalysis results (as for example
 surveyed in [\[KR11\]](#KR11) for block ciphers). Finally, 
 formal definitions and reductions to well analyzed mathematical assumptions have increased the 
 understanding and confidence in modern encryption schemes [\[KL14\]](#KL14). As a result, in a vast 
@@ -31,15 +29,14 @@ primitives together with provably secure modes of operation rather than closed-s
 **From algorithms to implementations**
 
 Research progresses have been an enabling factor for the development and deployment of open cryptographic 
-algorithms. As a result, open source implementations have also become standard for many
-basic cryptographic functionalities: see for example the [SSL](https://en.wikipedia.org/wiki/OpenSSL)
+algorithms and protocols. As a result, open source implementations have also become standard for 
+different cryptographic functionalities: see for example the [SSL](https://en.wikipedia.org/wiki/OpenSSL)
 and [NaCl](https://en.wikipedia.org/wiki/NaCl_(software)) libraries.
-Yet, and despite these advances, open source implementations are not yet available for
-various advanced cryptographic functionalities. 
+Yet, and despite thes progresses, open source implementations of more advanced functionalities
+or ensuring advanced features are not yet systematically available.
 
-One such functionality is embedded security against physical attacks. 
-For example, in their seminal work on Differential Power 
-Analysis, Kocher at al. showed that, without special care, cryptographic implementations 
+One example of such advanced features is embedded security against physical attacks. 
+In their seminal work on Differential Power Analysis, Kocher at al. showed that, without special care, cryptographic implementations 
 leak "side-channel information" that can be easily exploited to recover the key material of 
 cryptographic algorithms [\[KJJ99\]](#KJJ99). Boneh et al. showed that a similar issue occurs 
 if faults can be injected during the execution of the algorithms [\[BDL97\]](#BDL97). 
@@ -57,34 +54,37 @@ by obscurity paradigm becomes less justified and its benefits are outweighted by
 That is, while a closed source approach can limit the adversary's understanding of the target
 implementations as long as their specifications remain opaque, it also limits the public
 understanding of the mechanims on which security relies, and therefore the possibility to optimize them.
-We further expect this model to be well suited to cryptographic implementations optimized for various goals
+We expect this model to be well suited to cryptographic implementations optimized for various goals
 (i.e., beyond the embedded security ones).
 
 **Goals and interest of an open implementation approach**
 
 We envision the main goals and the interest of the SIMPLE-Crypto Association as follows:
 
-* <strong><em>Preserving the integrity of open source security technologies</em></strong>. For this purpose, we 
-aim to provide an infrastructure for open source cryptographic hardware and software 
-developments and to maintain a team of expert developers with minimum operational cost.
-
 * <strong><em>Improving the long-term security of cryptographic implementations</em></strong>. Our rationale 
 for this purpose is that over time, the continuous and public evaluation process that the SIMPLE-Crypto
 Association leverages will lead to better confidence in the security of its open 
 solutions than more time-constrained certifications.
 
+* <strong><em>Developing and preserving the integrity of open source security technologies</em></strong>. For this purpose, we 
+aim to provide an infrastructure for open source cryptographic hardware and software 
+developments and to maintain a team of expert developers with minimum operational cost.
+
 * <strong><em>Encouraging public audits</em></strong>. Following an established practice in cryptography and
-security research, we aim to complement all the solutions we implement with challenges and to reward the 
+security research, we aim to combine all the solutions we implement with challenges based on public data sets and to reward the 
 possible detection of security flaws in our designs with bug bounties.
 
 * <strong><em>Complementing the industrial ecosystem</em></strong>. As a non-profit organisation, 
 the SIMPLE-Crypto association does not aim to compete with established industrial actors. 
 We rather see the development of secure cryptographic implementations as becoming 
 so specialized that pooling a part of its development in a joint effort
-becomes justified, 
-as it was in the past for cryptographic algorithms, but with more need of continuous 
-development.  
+becomes justified, as it was in the past for cryptographic algorithms, but with more need of continuous 
+development. 
 
+* <strong><em>Performing applied research on cryptographic implementations</em>. The primary focus of our developments
+being on security solutions with strong security guarantees, the association aims to follow theoretical
+advances in the field and to contribute on their integration in order to make these advances more readily
+exploitable by third parties.
 
 **References**
 
