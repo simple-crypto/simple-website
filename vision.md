@@ -73,7 +73,7 @@ possible detection of security flaws in our designs with bug bounties. We will a
 tools available under open source licenses.
 
 * <strong><em>Complementing the industrial ecosystem</em></strong>. As a non-profit organisation, 
-the SIMPLE-Crypto association does not aim to compete with established industrial actors. 
+the SIMPLE-Crypto Association does not aim to compete with established industrial actors. 
 We rather see the development of secure cryptographic implementations as becoming 
 so specialized that pooling a part of its development in a joint effort
 becomes justified, as it was in the past for cryptographic algorithms, but with more need of continuous 
