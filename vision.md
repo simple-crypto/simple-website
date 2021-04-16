@@ -81,7 +81,7 @@ development.
 
 * <strong><em>Performing applied research on cryptographic implementations</em></strong>. The primary focus of our developments
 being on solutions with strong implementation security guarantees, the association aims to follow theoretical
-advances in the field and to contribute on their integration in order to make these advances more readily
+advances in the field and to contribute to their integration in order to make these advances more readily
 exploitable by third parties.
 
 We expect such an open approach to be well suited suited to cryptographic implementations optimized for various goals
