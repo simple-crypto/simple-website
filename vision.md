@@ -42,7 +42,7 @@ if faults can be injected during the execution of the algorithms [\[BDL97\]](#BD
 
 In view of the limited (theoretical and practical) understanding of these new physical attack 
 vectors, the first implementations to counteract them have been developed by the industry in a 
-mostly closed source setting. This situation is reflected by current evaluation practice 
+mostly closed source setting. This situation is reflected by evaluation practices 
 for which requiring implementation details may increase the "perceived complexity" of an
 attack (e.g., as rated by the [Common Criteria](https://www.commoncriteriaportal.org/){:target="_blank"} framework) 
 and therefore decrease its certification 
