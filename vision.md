@@ -74,9 +74,9 @@ tools available under open source licenses.
 
 * <strong><em>Complementing the industrial ecosystem</em></strong>. As a non-profit organisation, 
 the SIMPLE-Crypto Association does not aim to compete with established industrial actors. 
-We rather see the development and evaluation of secure cryptographic implementations as becoming 
+We rather see the development and evaluation of cryptographic implementations as becoming 
 so specialized and expensive that pooling a part of its development in a joint effort
-becomes justified, as it was in the past for cryptographic algorithms, but with more need of continuous 
+is justified, as it was in the past for cryptographic algorithms, but with more need of continuous 
 development. 
 
 * <strong><em>Performing applied research on cryptographic implementations</em></strong>. The primary focus of our developments
