@@ -1,8 +1,4 @@
 # Projects
 
-**Development stages**
-
-**Projects**
-
-* _SCALib_ 
+**SCALib**
 
