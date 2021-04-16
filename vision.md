@@ -23,7 +23,7 @@ Next, new design ideas have been introduced in order to prevent such cryptanalys
 surveyed in [\[KR11\]](#KR11) for block ciphers). Finally, 
 formal definitions and reductions to well analyzed mathematical assumptions have increased the 
 understanding and confidence in modern encryption schemes [\[KL14\]](#KL14). As a result, in a vast 
-majority of the cases, the recommended practice in 2020 is to use open and standardized 
+majority of the cases, the recommended practice nowadays is to use open and standardized 
 primitives together with provably secure modes of operation rather than closed-source ones. 
 
 **From algorithms to implementations**
@@ -32,7 +32,7 @@ Research progresses have been an enabling factor for the development and deploym
 algorithms and protocols. As a result, open source implementations have also become standard for 
 different cryptographic functionalities: see for example the [OpenSSL](https://en.wikipedia.org/wiki/OpenSSL){:target="_blank"} 
 and [NaCl](https://en.wikipedia.org/wiki/NaCl_(software)){:target="_blank"} libraries.
-Yet, and despite thes progresses, open source implementations of more advanced functionalities
+Yet, and despite these progresses, open source implementations of more advanced functionalities
 or ensuring advanced security features are not yet systematically available.
 One example of such advanced features is embedded security against physical attacks. 
 In their seminal work on Differential Power Analysis, Kocher at al. showed that, without special care, cryptographic implementations 
