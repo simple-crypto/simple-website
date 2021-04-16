@@ -58,8 +58,8 @@ understanding of the mechanims on which security relies, and therefore the possi
 
 We envision the main goals and the interest of the SIMPLE-Crypto Association as follows:
 
-* <strong><em>Improving the long-term security of cryptographic implementations</em></strong>. Our rationale 
-for this purpose is that over time, the continuous and public evaluation process that the SIMPLE-Crypto
+* <strong><em>Improving the long-term security of cryptographic implementations</em></strong>. The rationale 
+supporting our vision is that over time, the continuous and public evaluation process that the SIMPLE-Crypto
 Association leverages will lead to better confidence in the security of its open 
 solutions than more time-constrained certifications.
 
