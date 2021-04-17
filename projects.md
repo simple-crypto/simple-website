@@ -12,6 +12,6 @@
 
 <br>
 
-_A note on patents._ The association's researchers/developers do not fill patents.
-Our developments are all based on published solutions and are either free of patents 
+_A note on patents._ The SIMPLE-Crypto Association does not fill patents.
+Our developments are all based on peer-reviewed published solutions and are either free of patents 
 or should become free of patents in the long term. 
