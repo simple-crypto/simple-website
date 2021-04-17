@@ -24,7 +24,7 @@ surveyed in [\[KR11\]](#KR11) for block ciphers). Finally,
 formal definitions and reductions to well analyzed mathematical assumptions have increased the 
 understanding and confidence in modern encryption schemes [\[KL14\]](#KL14). As a result, in a vast 
 majority of the cases, the recommended practice nowadays is to use open and standardized 
-primitives together with provably secure modes of operation rather than closed-source ones. 
+primitives together with provably secure modes of operation rather than closed source ones. 
 
 **From algorithms to implementations**
 
