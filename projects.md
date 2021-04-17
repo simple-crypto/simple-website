@@ -8,4 +8,5 @@
 
 * <strong><em>AES-HPC</em></strong>
 
-**Finalized**
+**Under public evaluation**
+
