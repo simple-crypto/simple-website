@@ -10,3 +10,8 @@
 
 **Under public evaluation**
 
+<br>
+
+_A note on patents._ The association's researchers/developers do not fill patents.
+Our developments are all based on published solutions and are either free of patents 
+or should become free of patents in the long term. 
