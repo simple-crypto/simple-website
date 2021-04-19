@@ -84,7 +84,7 @@ being on solutions with strong implementation security guarantees, the associati
 advances in the field and to contribute to their integration in order to make these advances more readily
 exploitable by third parties.
 
-We expect such an open approach to be well suited suited to cryptographic implementations optimized for various goals
+We expect such an open approach to be well suited to cryptographic implementations optimized for various goals
 (i.e., beyond the embedded security ones).
 
 **References**
