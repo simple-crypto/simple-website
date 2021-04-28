@@ -90,7 +90,7 @@ In application fields where implementations are closed source,
 identifying good case studies may require expensive reverse engineering efforts that are 
 of limited scientific interest. It may also lead to the discovery of bugs in deployed products,
 leading to complex responsible disclosure issues. By identifying practically-relevent
-targets for testing new attacks, the SIMPLE-Crypto Association finally aims at serving as a
+targets for testing new attacks, the SIMPLE-Crypto Association aims at serving as a
 constructive interface between academic and industrial research.
 
 **References**
