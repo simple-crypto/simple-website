@@ -85,7 +85,7 @@ advances in the field and to contribute to their integration in order to make th
 exploitable by third parties.
 
 * <strong><em>Identifying practically-relevant targets for constructive research.</em></strong>
-Research in cryptography security can be driven both by theoretical advances and concrete case studies.
+Research in cryptography and security can be driven by both theoretical advances and concrete case studies.
 In application fields where implementations are closed source,
 identifying good case studies may require expensive reverse engineering efforts that are 
 of limited scientific interest. It may also lead to the discovery of bugs in deployed products,
