@@ -87,8 +87,8 @@ exploitable by third parties.
 * <strong><em>Identifying practically-relevant targets for constructive research.</em></strong>
 Research in cryptography security can be driven both by theoretical advances and concrete case studies.
 In application fields where implementations are closed source,
-identifying good case studies may require expensive reverse engineering efforts that may 
-be of limited scientific interest. It may also lead to the discovery of bugs in deployed products,
+identifying good case studies may require expensive reverse engineering efforts that are 
+of limited scientific interest. It may also lead to the discovery of bugs in deployed products,
 leading to complex responsible disclosure issues. By identifying practically-relevent
 targets for testing new attacks, the SIMPLE-Crypto Association finally aims at serving as a
 constructive interface between academic and industrial research.
