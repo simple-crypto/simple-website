@@ -1,8 +1,12 @@
 # Projects
 
+The SIMPLE-Crypto Association is currently working on different code projects described below.
+For each project, we give a succing summary, a link to academic publications whenever possible
+and a link to the page hosting the code with documentation and data sets.
+
 **Under development**
 
-* <strong><em>SCALib</em></strong> Github [link](https://github.com/simple-crypto/SCALib){:target="_blank"}
+* <strong><em>SCALib</em></strong> 
 
 * <strong><em>LR-BC</em></strong>
 

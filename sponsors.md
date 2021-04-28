@@ -19,11 +19,8 @@ project in the unlikely event that SIMPLE-Crypto ceases operations).
 
 Access to (non-exclusive) proprietary licenses can be considered without direct sponsoring, for example in case of 
 in-kind contributions to the association. 
-Special sponsorsiphs can also be discussed in case non-copyleft licenses for multiple projects are required
+Special sponsorships can also be discussed in case non-copyleft licenses for multiple projects are required
 In such cases, a specific license agreement is decided by the association’s board.
-
-* <strong><em>PLATINIUM Sponsors (>GOLD)</em></strong>. This sponsorship provides the benefits
-of a gold sponsor and is aimed to enable special support to the association's goals.
 
 **List of sponsors**
 
