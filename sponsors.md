@@ -1,7 +1,7 @@
 # Sponsors
 
 The SIMPLE-Crypto Association is funded by donations from world-class security organisations committed to our missions.
-Our standard sponsorship levels are described next together with a list of public sponsors. 
+Our standard (yearly) sponsorship levels are described next together with a list of public sponsors. 
 
 **Sponsorships**
 
@@ -14,7 +14,8 @@ training organized by the association and to the association’s general assembl
 sponsor, and to two tickets to the annual training organized by the association.
 
 * <strong><em>GOLD Sponsors (50kE per project, 25kE for SMEs)</em></strong>. This sponsorship provides the benefits of a 
-silver sponsor and to a non-copyleft license for one code project (and to perpetual license for the same code 
+silver sponsor and to a non-copyleft license for one code project during the membership year
+(and to perpetual license for the same code 
 project in the unlikely event that SIMPLE-Crypto ceases operations). 
 
 Access to (non-exclusive) proprietary licenses can be considered without direct sponsoring, for example in case of 
