@@ -25,4 +25,4 @@ In such cases, a specific license agreement is decided by the association’s bo
 
 **List of sponsors**
 
-**Former sponsors**
+<!-- **Former sponsors** -->
