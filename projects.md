@@ -10,7 +10,7 @@ and a link to the page hosting the code with documentation and data sets.
 
 * <strong><em>LR-BC</em></strong> A leakage-resilient mode of operation.
 
-<>* <strong><em>AES-HPC</em></strong>
+<!-- * <strong><em>AES-HPC</em></strong> -->
 
 **Under public evaluation**
 
