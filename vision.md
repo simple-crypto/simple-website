@@ -46,7 +46,7 @@ mostly closed source setting. This situation is reflected by evaluation practice
 for which requiring implementation details may increase the "perceived complexity" of an
 attack (e.g., as rated by the [Common Criteria](https://www.commoncriteriaportal.org/){:target="_blank"} framework) 
 and therefore decrease its certification 
-level [\[L16\]](/pdfs/Lomne_16.pdf){:target="_blank"}.<br>
+level [\[L16\]](/pdfs/Lomne_16.pdf){:target="_blank"}.
 While these approaches were necessary first steps towards solving
 the embedded security challenge, <strong><em>our vision is that as research advances, the security 
 by obscurity paradigm becomes less justified and its benefits are outweighted by its drawbacks</em></strong>. 
