@@ -16,8 +16,8 @@ initialization/finalization (thanks to a leakage-resilient PRF) and during the b
 computation (thanks to a leakage-resilient PRG). The publication on which this design
 relies is available [here](https://tches.iacr.org/index.php/TCHES/article/view/8988/){:target="_blank"}.
 
-* <strong><em>AES-HPC.</em></strong> Hardware Private Circuits (HPC) are a technique 
-to protect cryptographic implementation against side-channel attacks thanks to masking (aka secret sharing).
+* <strong><em>AES-HPC.</em></strong> Hardware Private Circuits (HPC) are a generic technique 
+to protect cryptographic implementations against side-channel attacks thanks to masking (aka secret sharing).
 It provides state-of-the-art guarantees in terms of resistance against physical defaults
 (e.g., glitches) and composability. The AES-HPC implementation package is a generic HDL
 code that describes a hardware implementation of the AES protected with arbitrary number of shares.
