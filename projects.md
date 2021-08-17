@@ -7,13 +7,6 @@ the public evaluation stage.
 
 **Under development**
 
-* <strong><em>SCALib</em></strong>, the Side-Channel Analysis Library,
-is a Python package that contains state-of-the-art tools for side-channel security evaluations. 
-It focuses on providing efficient implementations of analysis methods widely used by the 
-side-channel research community and maintaining a simple and flexible interface. The library
-is used as a first tool to assess the security of our open source implementations.
-Installation details and code are available [here](https://scalib.readthedocs.io/){:target="_blank"}.
-
 * <strong><em>LR-BC.</em></strong> Leakage-resistant modes of operation are aimed to 
 offer security against side-channel analysis while limiting the need of implementation-level
 countermeasures. LR-BC is an example of such modes that
@@ -32,6 +25,13 @@ The publication introducing HPC is is available [here](https://eprint.iacr.org/2
 
 
 **Under public evaluation**
+
+* <strong><em>SCALib</em></strong>, the Side-Channel Analysis Library,
+is a Python package that contains state-of-the-art tools for side-channel security evaluations. 
+It focuses on providing efficient implementations of analysis methods widely used by the 
+side-channel research community and maintaining a simple and flexible interface. The library
+is used as a first tool to assess the security of our open source implementations.
+Installation details and code are available [here](https://scalib.readthedocs.io/){:target="_blank"}.
 
 _A note on patents._ The SIMPLE-Crypto Association does not fill patents.
 Our developments are all based on peer-reviewed published solutions and are either free of patents 
