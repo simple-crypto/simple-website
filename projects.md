@@ -35,6 +35,6 @@ Installation details and code are available [here](https://scalib.readthedocs.io
 
 _A note on patents._ The SIMPLE-Crypto Association does not fill patents.
 Our developments are all based on peer-reviewed published solutions and are either free of patents 
-or should become free of patents in the long term. In the mid term, our code projects are
+or should become free of patents in the long term. In the mid term, code projects are
 provided “as is”, without warranty of any kind, express or implied, including but not limited to 
 the warranties of merchantability, fitness for a particular purpose and noninfringement. 
