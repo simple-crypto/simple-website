@@ -102,14 +102,16 @@ leading to complex responsible disclosure issues. By identifying practically-rel
 targets for testing new attacks, the SIMPLE-Crypto Association aims at serving as a
 constructive interface between academic and industrial research.
 
-**Model** 
+**Non-profit organization structure** 
 
-The SIMPLE-Crypto Association is based on a flexible organization with minimum 
+The SIMPLE-Crypto Association is based on a flexible model with minimum 
 overheads. It is aimed to enable the integration and maintenance of code projects from different partners. At high level,
 we request a perpetual, worldwide, non-exclusive, no charge, royalty-free and irrevocable
 license to contributors and start funding researchers (possibly co-affiliated with 
 other research institutes or universities) to evaluate and maintain the
-codes once our scientific council or sponsors expressed sufficient interest. 
+codes once our scientific council expressed sufficient interest and we
+collected sufficient sponsoring.
+
 
 **References**
 
