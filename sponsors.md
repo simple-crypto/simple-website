@@ -21,7 +21,7 @@ project in the unlikely event that SIMPLE-Crypto ceases operations).
 
 Access to (non-exclusive) proprietary licenses can be considered without direct sponsoring, for example in case of 
 in-kind contributions to the association. 
-Special sponsorships can also be discussed in case non-copyleft licenses for multiple projects are required
+Special sponsorships can also be discussed in case non-copyleft licenses for multiple projects are required.
 In such cases, a specific license agreement is decided by the association’s board.
 
 **List of sponsors**
