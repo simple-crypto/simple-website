@@ -75,14 +75,23 @@ tools available under open source licenses.
 * <strong><em>Complementing the industrial ecosystem</em></strong>. As a non-profit organisation, 
 the SIMPLE-Crypto Association does not aim to compete with established industrial actors. 
 We rather see the development and evaluation of cryptographic implementations as becoming 
-so specialized and expensive that pooling a part of its development in a joint effort
-is justified, as it was in the past for cryptographic algorithms, but with more need of continuous 
-development. 
+so specialized and expensive that pooling a part of its development in a joint effort is justified.
+We envision this complementarity for designs (as it was in the past for cryptographic algorithms, 
+but with more need of continuous development) and for evaluations (since our longer-term efforts
+do not cancel the need of third-party evaluation and certification when integrating open source
+solutions in complex systems).
+
+* <strong><em>Amplifying standardization efforts</em></strong>. Standardized algorithms
+and evaluation methodologies are essential ingredients towards systematizing research advances into technological
+building blocks that can be leveraged in real-world applications. Yet, it generally aims at some
+genericity that we aim to complement by maintaining implementations and, in the case of
+algorithms with embedded security guarantees, public evaluaions and data sets on relevant
+technologies.
 
 * <strong><em>Performing applied research on cryptographic implementations</em></strong>. The primary focus of our developments
 being on solutions with strong implementation security guarantees, the association aims to follow theoretical
-advances in the field and to contribute to their integration in order to make these advances more readily
-exploitable by third parties.
+advances in the field and to contribute to their prototyping, in order to make these advances more readily
+exploitable by industrial actors.
 
 * <strong><em>Identifying practically-relevant targets for constructive research.</em></strong>
 Research in cryptography and security is driven by both theoretical advances and concrete case studies.
