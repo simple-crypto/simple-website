@@ -85,7 +85,7 @@ solutions in complex systems).
 and evaluation methodologies are essential ingredients towards systematizing research advances into technological
 building blocks that can be leveraged in real-world applications. Yet, it generally aims at some
 genericity that we aim to enrich by maintaining implementations and, in the case of
-algorithms with embedded security guarantees, public evaluaions and data sets on relevant
+algorithms with embedded security guarantees, public evaluations and data sets on relevant
 technologies.
 
 * <strong><em>Performing applied research on cryptographic implementations</em></strong>. The primary focus of our developments
