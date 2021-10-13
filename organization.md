@@ -1,9 +1,8 @@
 # Organization 
 
 The SIMPLE-Crypto Association is based on a flexible model with minimum 
-overheads. It is aimed to enable the integration and maintenance of code projects from different partners. At high level,
-we request a perpetual, worldwide, non-exclusive, no charge, royalty-free and irrevocable
-license to contributors and start funding researchers (possibly co-affiliated with 
+overheads. It is aimed to enable the integration and maintenance of code projects from different partners. At high level, we
+start funding researchers (possibly co-affiliated with 
 other research institutes or universities) to evaluate and maintain the
 codes once our scientific council expressed sufficient interest and we
 collected sufficient sponsoring.
@@ -12,9 +11,34 @@ collected sufficient sponsoring.
 
 The typical lifetime of an open source project follows the following steps:
 
-* <strong><em>Target identification</em></strong>.
-* <strong><em>Development</em></strong>.
-* <strong><em>Public evaluation</em></strong>.
-* <strong><em>Release and maintenance</em></strong>.
+* <strong><em>Target identification</em></strong>. The association researchers 
+will follow relevant research advances and write a yearly report summarizing progresses
+and potential next developments. A yearly sponsors' workshop will take place
+to collect feedback and additional suggestions of future developments, based on which the report will be 
+updated. The report will finally be transmitted to a scientific council which
+will again provide feedback and lead to an update of the report. 
+The association board will decide on the yearly developments based on this process.
+
+* <strong><em>Development</em></strong>. The selected projects will be 
+developed towards prototype codes and documentations, and their
+(e.g., physical) security will be evaluated internally, by the association's
+researchers.
+
+* <strong><em>Public evaluation</em></strong>. Once sufficiently documented
+and reaching a sufficient security level, the code projects will be 
+submitted to public evaluation. Concretely, it means that the open source 
+code will be made available together with data sets enabling the verification
+(and possible improvement) of our security evaluations.
+
+* <strong><em>Release and maintenance</em></strong>. Once the security levels suggested
+by the analyses of a code project seem to "saturate", the code will be tagged as released.
+The association researchers will go on maintaining the code and collecting
+improved analyses as long as the code is not tagged as "not maintained anymor".
+
 
 **Licencing rationale** 
+
+* <strong><em>Contributor license agreement</em></strong>. We generally request a perpetual, worldwide, 
+non-exclusive, no charge, royalty-free and irrevocablelicense to contributors.
+
+* <strong><em>Dual licensing approach</em></strong>.
