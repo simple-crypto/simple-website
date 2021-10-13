@@ -25,15 +25,15 @@ developed towards prototype codes and documentations, and their
 researchers.
 
 * <strong><em>Public evaluation</em></strong>. Once sufficiently documented
-and reaching a sufficient security level, the code projects will be 
+and reaching a sufficient level of maturity, the code projects will be 
 submitted to public evaluation. Concretely, it means that the open source 
 code will be made available together with data sets enabling the verification
 (and possible improvement) of our security evaluations.
 
 * <strong><em>Release and maintenance</em></strong>. Once the security levels suggested
-by the analyses of a code project seem to "saturate", the code will be tagged as released.
+by the internal and external analyses of a code project seem to "saturate", the code will be tagged as released.
 The association researchers will go on maintaining the code and collecting
-improved analyses as long as the code is not tagged as "not maintained anymor".
+improved analyses as long as the code is not tagged as "not maintained anymore".
 
 
 **Licencing rationale** 
@@ -41,4 +41,7 @@ improved analyses as long as the code is not tagged as "not maintained anymor".
 * <strong><em>Contributor license agreement</em></strong>. We generally request a perpetual, worldwide, 
 non-exclusive, no charge, royalty-free and irrevocablelicense to contributors.
 
-* <strong><em>Dual licensing approach</em></strong>.
+* <strong><em>Dual licensing approach</em></strong>. Unless exception, the codes developed by the association
+will be made available under open source (GPL-like) licenses. In order to allow sponsors
+to integrate these codes in products without the GPL constraints, we propose a dual licensing model
+providing the benefits of a non-copyleft license to our gold sponsors.
