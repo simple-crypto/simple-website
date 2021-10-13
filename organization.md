@@ -20,21 +20,19 @@ will again provide feedback and lead to an update of the report.
 The association board will decide on the yearly developments based on this process.
 
 * <strong><em>Development</em></strong>. The selected projects will be 
-developed towards prototype codes and documentations, and their
+developed towards prototype codes with accurate documentation, and their
 (e.g., physical) security will be evaluated internally, by the association's
 researchers.
 
-* <strong><em>Public evaluation</em></strong>. Once sufficiently documented
-and reaching a sufficient level of maturity, the code projects will be 
+* <strong><em>Public evaluation</em></strong>. Once reaching a sufficient level of maturity, the code projects will be 
 submitted to public evaluation. Concretely, it means that the open source 
 code will be made available together with data sets enabling the verification
 (and possible improvement) of our security evaluations.
 
 * <strong><em>Release and maintenance</em></strong>. Once the security levels suggested
-by the internal and external analyses of a code project seem to "saturate", the code will be tagged as released.
+by the internal and external analyses of a code project seem to "saturate over time", the code will be tagged as released.
 The association researchers will go on maintaining the code and collecting
-improved analyses as long as the code is not tagged as "not maintained anymore".
-
+improved analyses as long as the code is considered relevant by the sponsors, scientific council and board.
 
 **Licencing rationale** 
 
@@ -42,6 +40,6 @@ improved analyses as long as the code is not tagged as "not maintained anymore".
 non-exclusive, no charge, royalty-free and irrevocablelicense to contributors.
 
 * <strong><em>Dual licensing approach</em></strong>. Unless exception, the codes developed by the association
-will be made available under open source (GPL-like) licenses. In order to allow sponsors
+will be made available under an open source GPL-like license. In order to allow sponsors
 to integrate these codes in products without the GPL constraints, we propose a dual licensing model
 providing the benefits of a non-copyleft license to our gold sponsors.
