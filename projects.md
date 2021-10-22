@@ -5,7 +5,7 @@ For each project, we give a succing summary, a link to academic publications whe
 and a link to the page hosting the code with documentation and data sets when moving to
 the public evaluation stage.
 
-**Under development**
+**Under development (tentative examples)**
 
 * <strong><em>LR-BC.</em></strong> Leakage-resistant modes of operation are aimed to 
 offer security against side-channel analysis while limiting the need of implementation-level
@@ -24,7 +24,7 @@ code that describes a hardware implementation of the AES protected with arbitrar
 The publication introducing HPC is is available [here](https://eprint.iacr.org/2020/185){:target="_blank"}.
 
 
-**Under public evaluation**
+**Under public evaluation (tentative example)**
 
 * <strong><em>SCALib</em></strong>, the Side-Channel Analysis Library,
 is a Python package that contains state-of-the-art tools for side-channel security evaluations. 
