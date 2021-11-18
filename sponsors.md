@@ -7,8 +7,7 @@ Our standard (yearly) sponsorship levels are described next together with a list
 
 * <strong><em>BRONZE Sponsors (5kE)</em></strong>. This sponsorship is aimed to support 
 the high-level vision of the association. It gives access to the yearly sponsors' workshop
-which is the main channel to suggest implementations to develop, priority invitation to the annual 
-trainings organized by the association and access the association’s general assembly 
+which is the main channel to suggest implementations to develop, and access the association’s general assembly 
 (as non-voting member).
 
 * <strong><em>SILVER Sponsors (10kE)</em></strong>. This sponsorship provides the benefits of a bronze 
