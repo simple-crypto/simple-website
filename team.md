@@ -7,7 +7,7 @@ The open source solutions of the SIMPLE-Crypto association are developed by the 
 * Hardware implementations contact point: [Charles Momin](https://dblp.org/pid/258/9153.html)
 
 
-**Active researchers/developers**
+**Active researchers/developers:**
 Olivier Bronchain, Gaëtan Cassiers, Charles Momin, Balazs Udvarhelyi.
 
-<!--**Former researchers/developers**-->
+<!--**Former researchers/developers:**-->
