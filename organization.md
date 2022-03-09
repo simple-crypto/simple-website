@@ -9,10 +9,9 @@ codes once our scientific council expressed sufficient interest and we
 collected sufficient sponsoring. Details about the yearly schedule of the association,
 the lifetime of its projects and its licening policy are given next.
 
-** Yearly schedule of the association**
+**Yearly schedule of the association**
 
 A typical year of the SIMPLE-Crypto Association follows four main steps:
-
 * <strong><em>Step 1.</em></strong> The developers of the association write a public 
 report describing yearly progresses and listing potential plans for the next year.   
 * <strong><em>Step 2.</em></strong> Sponsors meet during a yearly workshop to discuss 
@@ -20,8 +19,11 @@ the report and identify promising developments. The report is updated based on t
 * <strong><em>Step 3.</em></strong> The scientific council reviews the proposed developments
 and establishes a priority list with potential developers. The report is updated based on this feedack.
 * <strong><em>Step 4.</em></strong> Developers are contacted following the priority list and
-projects are launched for one year.
-
+open source projects are launched for one year given the budget constraints.
+The two main criteria driving the selection of the projects are:
+* Their scientific maturity (i.e., the existence of a theortical 
+background to back them up or convincing proofs-of-concept from the academic literature).
+* Their mid/long-term relevance of the developements for industrial applications.
 
 **Lifetime of the association's projects**
 
