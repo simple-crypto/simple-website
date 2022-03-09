@@ -1,13 +1,29 @@
 # Organization 
 
 The SIMPLE-Crypto Association is based on a flexible model with minimum 
-overheads. It is aimed to enable the integration and maintenance of code projects from different partners. At high level, we
+overheads. It is aimed to enable the integration and maintenance of code projects from 
+different partners. At high level, we
 start funding researchers (possibly co-affiliated with 
 other research institutes or universities) to evaluate and maintain the
 codes once our scientific council expressed sufficient interest and we
-collected sufficient sponsoring.
+collected sufficient sponsoring. Details about the yearly schedule of the association,
+the lifetime of its projects and its licening policy are given next.
 
-**Projects' selection and steps**
+** Yearly schedule of the association**
+
+A typical year of the SIMPLE-Crypto Association follows four main steps:
+
+* <strong><em>Step 1.</em></strong> The developers of the association write a public 
+report describing yearly progresses and listing potential plans for the next year.   
+* <strong><em>Step 2.</em></strong> Sponsors meet during a yearly workshop to discuss 
+the report and identify promising developments. The report is updated based on this feedback.
+* <strong><em>Step 3.</em></strong> The scientific council reviews the proposed developments
+and establishes a priority list with potential developers. The report is updated based on this feedack.
+* <strong><em>Step 4.</em></strong> Developers are contacted following the priority list and
+projects are launched for one year.
+
+
+**Lifetime of the association's projects**
 
 The typical lifetime of an open source project follows the following steps:
 
@@ -34,7 +50,7 @@ by the internal and external analyses of a code project seem to "saturate over t
 The association researchers will go on maintaining the code and collecting
 improved analyses as long as the code is considered relevant by the sponsors, scientific council and board.
 
-**Licencing rationale** 
+**Licencing policy of the association** 
 
 * <strong><em>Contributor license agreement</em></strong>. We generally request a perpetual, worldwide, 
 non-exclusive, no charge, royalty-free and irrevocablelicense to contributors.

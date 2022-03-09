@@ -7,3 +7,5 @@ side-channel attacks, fault attacks and other physical security issues). Project
 developments and hardware developments, for various cryptographic algorithms and protocols.
 
 # News
+
+* February 25, 2022. SIMPLE-Crypto is founded.
