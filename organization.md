@@ -48,7 +48,7 @@ Bug bounties reward the possible detection of security flaws in the association'
 * <strong><em>Gold sponsoring.</em></strong> The code starts is used by a sponsor.
 For a period of X years, the sponsoring enables its integration under
 a non-copyleft license, while the code remains available under a copyleft license
-for non commercial use, which we denote as dual licensing.
+for open source developments, which we denote as dual licensing.
 During this period, the detection of security flaws and bugs 
 goes through a separate incident response process, following standard responsible
 disclosure practice. Bugs are first communicated to the association and forwarded
@@ -72,7 +72,8 @@ We ask contributors (individual or enterprises) to sign a CLA. It aims to:
 	* The contributions will be publicly licensed according to the development stage of the project.
 	* The CLA is with SIMPLE, a non-profit organization whose statutary goal is to develop open source cryptographic implementations.
 	
-	For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and irrevocable license to contributors.
+	For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and 
+	irrevocable license to contributors. Precisely, ?
 
 * <strong><em>Licensing of SIMPLE-Crypto implementations.</em></strong> 
 The type of license under which SIMPLE-Crypto implementations are released depends on
@@ -83,6 +84,6 @@ the project stage:
 	same copyleft license as for the development and public evaluation stages for open source developments. 
 	Gold sponsors gives access to a yearly non-copyleft license for commercial closed source developments.
 	Precisely, ?
-	* After final release, the codes become available under a non-copyleft licenses. Precisely, ?
+	* After final release, the codes become available under a perpetual non-copyleft licenses. Precisely, ?
 
 Besides, our evaluation tools will only be released under a copyleft license, namely the AGPLv3 one.
