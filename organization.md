@@ -74,7 +74,15 @@ We ask contributors (individual or enterprises) to sign a CLA. It aims to:
 	
 	For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and irrevocable license to contributors.
 
-* <strong><em>Dual licensing approach</em></strong>. Unless exception, the codes developed by the association
-will be made available under an open source GPL-like license. In order to allow sponsors
-to integrate these codes in products without the GPL constraints, we propose a dual licensing model
-providing the benefits of a non-copyleft license to our gold sponsors.
+* <strong><em>Licensing of SIMPLE-Crypto implementations.</em></strong> 
+The type of license under which SIMPLE-Crypto implementations are released depends on
+the project stage:
+	* For the development and public evaluation stages, we use only copyleft licenses. Precisely,
+	we use the GPLv3 license for software developments and CERN OHL-S for hardware developments.
+	* During the gold sponsoring stage, we use a dual licensing approach. Codes are available under the 
+	same copyleft license as for the development and public evaluation stages for open source developments. 
+	Gold sponsors gives access to a yearly non-copyleft license for commercial closed source developments.
+	Precisely, ?
+	* After final release, the codes become available under a non-copyleft licenses. Precisely, ?
+
+Besides, our evaluation tools will only be released under a copyleft license, namely the AGPLv3 one.
