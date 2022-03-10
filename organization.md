@@ -66,12 +66,13 @@ We ask contributors (individual or enterprises) to sign a CLA. It aims to:
 	* Enable the dual-licensing model;
 	* Ensure that SIMPLE-Crypto has authority to enforce the (open source) license clauses;
 	* Ensure that no contributor will sue any user of the code for patent infringement caused by the contribution.
-The contributor is still guaranteed that:
+	
+	The contributor is still guaranteed that:
 	* He/she retains copyright on his/her contributions;
 	* The contributions will be publicly licensed according to the development stage of the project.
 	* The CLA is with SIMPLE, a non-profit organization whose statutary goal is to develop open source cryptographic implementations.
-
-For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and irrevocable license to contributors.
+	
+	For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and irrevocable license to contributors.
 
 * <strong><em>Dual licensing approach</em></strong>. Unless exception, the codes developed by the association
 will be made available under an open source GPL-like license. In order to allow sponsors
