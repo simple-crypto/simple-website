@@ -14,7 +14,7 @@ the lifetime of its projects and its licening policy are given next.
 A typical year of the SIMPLE-Crypto Association follows four main steps:
 * <strong><em>Yearly report.</em></strong> The developers of the association write a public 
 report describing yearly progresses and listing potential plans for the next year.   
-* <strong><em>Sponsors' workshop.</em></strong> Sponsors meet during a yearly workshop to discuss 
+* <strong><em>Sponsors' workshop.</em></strong> Sponsors meet during an annual workshop to discuss 
 the report and identify promising developments. The report is updated based on this feedback.
 * <strong><em>Scientific council.</em></strong> The scientific council reviews the proposed developments
 and establishes a priority list with potential developers. The report is updated based on this feedack.
@@ -45,9 +45,11 @@ under a copyleft licence together with its documentation, prediction tool and
 preliminary security evaluation report. A challenge is organized 
 based on public data sets, linked to scientific conferences whenever possible.
 Bug bounties reward the possible detection of security flaws in the association's designs.
-* <strong><em>Gold sponsoring.</em></strong> The code starts to be used by a sponsor.
-For a period of X years, the sponsoring enables the integration of the code under
-a non-copyleft license. During this period, the detection of security flaws and bugs 
+* <strong><em>Gold sponsoring.</em></strong> The code starts is used by a sponsor.
+For a period of X years, the sponsoring enables its integration under
+a non-copyleft license, while the code remains available under a copyleft license
+for non commercial use, which we denote as dual licensing.
+During this period, the detection of security flaws and bugs 
 goes through a separate incident response process, following standard responsible
 disclosure practice. Bugs are first communicated to the association and forwarded
 to sponsors. Their public release may be delayed. In case security flaws imply
@@ -58,8 +60,18 @@ under a non-copyleft license for the whole community.
 
 **Licencing policy of the association** 
 
-* <strong><em>Contributor license agreement</em></strong>. We generally request a perpetual, worldwide, 
-non-exclusive, no charge, royalty-free and irrevocablelicense to contributors.
+* <strong><em>Contributor License Agreement (CLA).</em></strong>
+We ask contributors (individual or enterprises) to sign a CLA. It aims to:
+	* Ensure that SIMPLE-Crypto can relicense the works;
+	* Enable the dual-licensing model;
+	* Ensure that SIMPLE-Crypto has authority to enforce the (open source) license clauses;
+	* Ensure that no contributor will sue any user of the code for patent infringement caused by the contribution.
+The contributor is still guaranteed that:
+	* He/she retains copyright on his/her contributions;
+	* The contributions will be publicly licensed according to the development stage of the project.
+	* The CLA is with SIMPLE, a non-profit organization whose statutary goal is to develop open source cryptographic implementations.
+
+For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and irrevocable license to contributors.
 
 * <strong><em>Dual licensing approach</em></strong>. Unless exception, the codes developed by the association
 will be made available under an open source GPL-like license. In order to allow sponsors
