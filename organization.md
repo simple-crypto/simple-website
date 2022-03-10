@@ -12,13 +12,13 @@ the lifetime of its projects and its licening policy are given next.
 **Yearly schedule of the association**
 
 A typical year of the SIMPLE-Crypto Association follows four main steps:
-* <strong><em>Step 1.</em></strong> The developers of the association write a public 
+* <strong><em>Yearly report.</em></strong> The developers of the association write a public 
 report describing yearly progresses and listing potential plans for the next year.   
-* <strong><em>Step 2.</em></strong> Sponsors meet during a yearly workshop to discuss 
+* <strong><em>Sponsors' workshop.</em></strong> Sponsors meet during a yearly workshop to discuss 
 the report and identify promising developments. The report is updated based on this feedback.
-* <strong><em>Step 3.</em></strong> The scientific council reviews the proposed developments
+* <strong><em>Scientific council.</em></strong> The scientific council reviews the proposed developments
 and establishes a priority list with potential developers. The report is updated based on this feedack.
-* <strong><em>Step 4.</em></strong> The association board approves the report. 
+* <strong><em>Projects selection.</em></strong> The association board approves the report. 
 Developers are contacted following the priority list and open source projects are 
 launched for one year given the budget constraints.
 
@@ -30,7 +30,7 @@ background or convincing proofs-of-concept from the academic literature).
 **Lifetime of the association's projects**
 
 The typical lifetime of an open source project follows the following stages:
-* <strong><em>Development</em></strong>. The selected projects are 
+* <strong><em>Development.</em></strong> The selected projects are 
 developed towards prototype codes with accurate documentation and test vectors. Their
 (e.g., physical) security is evaluated internally, by the association's
 researchers. More precisely:
@@ -40,23 +40,21 @@ for hardware developments).
 in order to facilitate worst-case physical security evaluations.
 	* Preliminary security evaluation based on the open source evaluation tools
 of the association ends with a report describing the best attack vectors found.
-
-* <strong><em>Public evaluation</em></strong>. 
-
-* <strong><em>Sponsoring</em></strong>. 
-
-* <strong><em>Final release</em></strong>. 
-
-
-* <strong><em>Public evaluation</em></strong>. Once reaching a sufficient level of maturity, the code projects will be 
-submitted to public evaluation. Concretely, it means that the open source 
-code will be made available together with data sets enabling the verification
-(and possible improvement) of our security evaluations.
-
-* <strong><em>Release and maintenance</em></strong>. Once the security levels suggested
-by the internal and external analyses of a code project seem to "saturate over time", the code will be tagged as released.
-The association researchers will go on maintaining the code and collecting
-improved analyses as long as the code is considered relevant by the sponsors, scientific council and board.
+* <strong><em>Public evaluation.</em></strong> The prototype code is released 
+under a copyleft licence together with its documentation, prediction tool and
+preliminary security evaluation report. A challenge is organized 
+based on public data sets, linked to scientific conferences whenever possible.
+Bug bounties reward the possible detection of security flaws in the association's designs.
+* <strong><em>Gold sponsoring.</em></strong> The code starts to be used by a sponsor.
+For a period of X years, the sponsoring enables the integration of the code under
+a non-copyleft license. During this period, the detection of security flaws and bugs 
+goes through a separate incident response process, following standard responsible
+disclosure practice. Bugs are first communicated to the association and forwarded
+to sponsors. Their public release may be delayed. In case security flaws imply
+a need of re-design, this re-design is automatically suggested as a potential development
+for the coming year. 
+* <strong><em>Final release.</em></strong> After X years, the code is released 
+under a non-copyleft license for the whole community.
 
 **Licencing policy of the association** 
 
