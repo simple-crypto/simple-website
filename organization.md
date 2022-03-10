@@ -18,24 +18,18 @@ report describing yearly progresses and listing potential plans for the next yea
 the report and identify promising developments. The report is updated based on this feedback.
 * <strong><em>Step 3.</em></strong> The scientific council reviews the proposed developments
 and establishes a priority list with potential developers. The report is updated based on this feedack.
-* <strong><em>Step 4.</em></strong> Developers are contacted following the priority list and
-open source projects are launched for one year given the budget constraints.
+* <strong><em>Step 4.</em></strong> The association board approves the report. 
+Developers are contacted following the priority list and open source projects are 
+launched for one year given the budget constraints.
+
 The two main criteria driving the selection of the projects are:
-* Their scientific maturity (i.e., the existence of a theortical 
-background to back them up or convincing proofs-of-concept from the academic literature).
-* Their mid/long-term relevance of the developements for industrial applications.
+* Their scientific maturity (i.e., the existence of a theoretical 
+background or convincing proofs-of-concept from the academic literature to back them up).
+* Their mid/long-term relevance for emerging industrial applications.
 
 **Lifetime of the association's projects**
 
 The typical lifetime of an open source project follows the following steps:
-
-* <strong><em>Target identification</em></strong>. The association researchers 
-will follow relevant research advances and write a yearly report summarizing progresses
-and potential next developments. A yearly sponsors' workshop will take place
-to collect feedback and additional suggestions of future developments, based on which the report will be 
-updated. The report will finally be transmitted to a scientific council which
-will again provide feedback and lead to an update of the report. 
-The association board will decide on the yearly developments based on this process.
 
 * <strong><em>Development</em></strong>. The selected projects will be 
 developed towards prototype codes with accurate documentation, and their
