@@ -24,17 +24,29 @@ launched for one year given the budget constraints.
 
 The two main criteria driving the selection of the projects are:
 * Their scientific maturity (i.e., the existence of a theoretical 
-background or convincing proofs-of-concept from the academic literature to back them up).
+background or convincing proofs-of-concept from the academic literature).
 * Their mid/long-term relevance for emerging industrial applications.
 
 **Lifetime of the association's projects**
 
-The typical lifetime of an open source project follows the following steps:
+The typical lifetime of an open source project follows the following stages:
+* <strong><em>Development</em></strong>. The selected projects are 
+developed towards prototype codes with accurate documentation and test vectors. Their
+(e.g., physical) security is evaluated internally, by the association's
+researchers. More precisely:
+	* Codes are based on standard interfacess (e.g., [AXI](https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface)
+for hardware developments). 
+	* Documentation includes a tool for predicting the exact state of an implementation at any given cycle, 
+in order to facilitate worst-case physical security evaluations.
+	* Preliminary security evaluation based on the open source evaluation tools
+of the association ends with a report describing the best attack vectors found.
 
-* <strong><em>Development</em></strong>. The selected projects will be 
-developed towards prototype codes with accurate documentation, and their
-(e.g., physical) security will be evaluated internally, by the association's
-researchers.
+* <strong><em>Public evaluation</em></strong>. 
+
+* <strong><em>Sponsoring</em></strong>. 
+
+* <strong><em>Final release</em></strong>. 
+
 
 * <strong><em>Public evaluation</em></strong>. Once reaching a sufficient level of maturity, the code projects will be 
 submitted to public evaluation. Concretely, it means that the open source 
