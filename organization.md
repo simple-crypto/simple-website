@@ -92,4 +92,4 @@ the project stage:
 	under a perpetual non-copyleft licenses. Precisely, we use the MIT license for both software and
 	hardware developments.
 
-Besides, our evaluation tools will only be released under a copyleft license, namely the AGPLv3 one. 
+Besides, our evaluation tools will only be released under a copyleft license, namely the AGPLv3 one.
