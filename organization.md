@@ -44,16 +44,16 @@ of the association ends with a report describing the best attack vectors found.
 under a copyleft licence together with its documentation, prediction tool and
 preliminary security evaluation report. A challenge is organized 
 based on public data sets, linked to scientific conferences whenever possible.
-Bug bounties reward the possible detection of security flaws in the association's designs.
 A call for contributions aiming at improving the code is open.
 * <strong><em>Gold sponsoring.</em></strong> The code starts to be sponsored for practical use.
 For a period of 5 years, the yearly gold sponsoring enables the code integration under
 a non-copyleft license, while it remains available under a copyleft license
 for open source developments, which we denote as dual licensing.
 After 5 years of gold sponsoring of a code, sponsors receive a perpetual non-copyleft 
-license for it. As long as a code is gold-sponsored, the detection of security flaws and bugs 
+license for it. As long as a code is gold-sponsored, the detection of security flaws 
 goes through a separate incident response process, following standard responsible
-disclosure practice. Bugs are first communicated to the association and forwarded
+disclosure practice and rewarded by bug bounties.
+Flaws are first communicated to the association and forwarded
 to sponsors. Their public release may be delayed. In case security flaws imply
 a need of re-design, this re-design is automatically suggested as a potential development
 for the coming year. 
