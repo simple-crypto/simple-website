@@ -11,7 +11,9 @@ which is the main channel to suggest implementations to develop, and access the 
 (as non-voting member).
 
 * <strong><em>SILVER Sponsors (10kE)</em></strong>. This sponsorship provides the benefits of a bronze 
-sponsor, and to two tickets to one of the annual trainings organized by the association.
+sponsor, to two tickets to one of the annual trainings organized by the association
+and to a non-copyleft license for the association's evaluation tools during the membership year
+(and to perpetual license for the same code project in the unlikely event that SIMPLE-Crypto ceases operations). 
 
 * <strong><em>GOLD Sponsors (25kE)</em></strong>. This sponsorship provides the benefits of a 
 silver sponsor and to a non-copyleft license for one code project of the association during the membership year
