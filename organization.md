@@ -34,7 +34,7 @@ The typical lifetime of an open source project follows the following stages:
 developed towards prototype codes with accurate documentation and test vectors. Their
 (e.g., physical) security is evaluated internally, by the association's
 researchers. More precisely:
-	* Codes are based on standard interfacess (e.g., [AXI](https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface)
+	* Codes are based on standard interfaces (e.g., [AXI](https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface)
 for hardware developments). 
 	* Documentation includes a tool for predicting the exact state of an implementation at any given cycle, 
 in order to facilitate worst-case physical security evaluations.
@@ -45,17 +45,20 @@ under a copyleft licence together with its documentation, prediction tool and
 preliminary security evaluation report. A challenge is organized 
 based on public data sets, linked to scientific conferences whenever possible.
 Bug bounties reward the possible detection of security flaws in the association's designs.
-* <strong><em>Gold sponsoring.</em></strong> The code starts is used by a sponsor.
-For a period of X years, the sponsoring enables its integration under
-a non-copyleft license, while the code remains available under a copyleft license
+A call for contributions aiming at improving the code is open.
+* <strong><em>Gold sponsoring.</em></strong> The code starts to be sponsored for practical use.
+For a period of 5 years, the yearly gold sponsoring enables the code integration under
+a non-copyleft license, while it remains available under a copyleft license
 for open source developments, which we denote as dual licensing.
-During this period, the detection of security flaws and bugs 
+After 5 years of gold sponsoring of a code, sponsors receive a perpetual non-copyleft 
+license for it. As long as a code is gold-sponsored, the detection of security flaws and bugs 
 goes through a separate incident response process, following standard responsible
 disclosure practice. Bugs are first communicated to the association and forwarded
 to sponsors. Their public release may be delayed. In case security flaws imply
 a need of re-design, this re-design is automatically suggested as a potential development
 for the coming year. 
-* <strong><em>Final release.</em></strong> After X years, the code is released 
+* <strong><em>Final release.</em></strong> Once the code has been gold-sponsored 
+for at least 5 years and is not sponsored anymore, it is released 
 under a non-copyleft license for the whole community.
 
 **Licencing policy of the association** 
@@ -73,7 +76,7 @@ We ask contributors (individual or enterprises) to sign a CLA. It aims to:
 	* The CLA is with SIMPLE, a non-profit organization whose statutary goal is to develop open source cryptographic implementations.
 	
 	For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and 
-	irrevocable license to contributors. Precisely, ?
+	irrevocable license to contributors. Precisely, the SIMPLE-Crypto CLA is available [here](???).
 
 * <strong><em>Licensing of SIMPLE-Crypto implementations.</em></strong> 
 The type of license under which SIMPLE-Crypto implementations are released depends on
@@ -82,8 +85,11 @@ the project stage:
 	we use the GPLv3 license for software developments and CERN OHL-S for hardware developments.
 	* During the gold sponsoring stage, we use a dual licensing approach. Codes are available under the 
 	same copyleft license as for the development and public evaluation stages for open source developments. 
-	Gold sponsors gives access to a yearly non-copyleft license for commercial closed source developments.
-	Precisely, ?
-	* After final release, the codes become available under a perpetual non-copyleft licenses. Precisely, ?
+	Gold sponsoring gives access to a yearly non-copyleft license for commercial closed source developments.
+	Precisely, sponsors are granted a yearly MIT license during the gold sponsoring, which is translated into
+	a perpetual MIT license after 5 years of gold sponsoring. 
+	* After final release, the codes become available for the whole community
+	under a perpetual non-copyleft licenses. Precisely, we use the MIT license for both software and
+	hardware developments.
 
-Besides, our evaluation tools will only be released under a copyleft license, namely the AGPLv3 one.
+Besides, our evaluation tools will only be released under a copyleft license, namely the AGPLv3 one. 
