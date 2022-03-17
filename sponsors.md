@@ -19,7 +19,7 @@ silver sponsor and to a non-copyleft license for one code project of the associa
 project in the unlikely event that SIMPLE-Crypto ceases operations). 
 
 The gold sponsoring is adapted in case of muliple code projects (20 kE for the 2nd project,
-15kE for the third one, 10 for the 4th one and 5kE for all the following ones). 
+15kE for the 3rd one, 10kE for the 4th one and 5kE for all the following ones). 
 
 Access to (non-exclusive) proprietary licenses can be considered without direct sponsoring, 
 for example in case of  in-kind contributions to the association. 
