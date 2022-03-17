@@ -93,6 +93,6 @@ the project stage:
 	hardware developments. 
 
 Our evaluation tools will be published under a copyleft license, namely the AGPLv3 one.
-Bronze sponsoring grants access to a yearly non-copyleft licence, namely the MIT one.
+Silver sponsoring grants access to a yearly non-copyleft licence, namely the MIT one.
 They will not be released under a perpetual non-copyleft license because we expect
 tools to be continuously updated.
