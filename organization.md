@@ -90,6 +90,6 @@ the project stage:
 	a perpetual MIT license after 5 years of gold sponsoring. 
 	* After final release, the codes become available for the whole community
 	under a perpetual non-copyleft licenses. Precisely, we use the MIT license for both software and
-	hardware developments.
+	hardware developments. 
 
 Besides, our evaluation tools will only be released under a copyleft license, namely the AGPLv3 one.
