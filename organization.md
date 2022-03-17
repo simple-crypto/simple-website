@@ -45,7 +45,7 @@ under a copyleft licence together with its documentation, prediction tool and
 preliminary security evaluation report. A challenge is organized 
 based on public data sets, linked to scientific conferences whenever possible.
 A call for contributions aiming at improving the code is open.
-* <strong><em>Gold sponsoring.</em></strong> The code starts to be sponsored for practical use.
+* <strong><em>Gold sponsoring.</em></strong> The code is integrated in industrial products.
 The yearly gold sponsoring enables the code integration under
 a non-copyleft license, while it remains available under a copyleft license
 for open source developments, which we denote as dual licensing.
