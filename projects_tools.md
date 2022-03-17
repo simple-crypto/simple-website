@@ -14,7 +14,7 @@ It provides state-of-the-art guarantees in terms of resistance against physical 
 code that describes a hardware implementation of the AES protected with arbitrary number of shares.
 The publications introducing HPC and its application to the AES
 are available [here](https://eprint.iacr.org/2020/185){:target="_blank"}
-and [here](https://perso.uclouvain.be/fstandae/PUBLIS/276){:target="_blank"}
+and [here](https://eprint.iacr.org/2022/252){:target="_blank"}
 
 <!--
 * <strong><em>LR-BC.</em></strong> Leakage-resistant modes of operation are aimed to 
