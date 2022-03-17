@@ -45,8 +45,8 @@ under a copyleft licence together with its documentation, prediction tool and
 preliminary security evaluation report. A challenge is organized 
 based on public data sets, linked to scientific conferences whenever possible.
 A call for contributions aiming at improving the code is open.
-* <strong><em>Gold sponsoring.</em></strong> The code is integrated in industrial products.
-The yearly gold sponsoring enables the code integration under
+* <strong><em>Gold sponsoring.</em></strong> The code is used in industrial projects.
+The yearly gold sponsoring enables its integration under
 a non-copyleft license, while it remains available under a copyleft license
 for open source developments, which we denote as dual licensing.
 After 5 years of gold sponsoring of a code, sponsors receive a perpetual non-copyleft 
@@ -76,7 +76,7 @@ We ask contributors (individual or enterprises) to sign a CLA. It aims to:
 	* The CLA is with SIMPLE, a non-profit organization whose statutary goal is to develop open source cryptographic implementations.
 	
 	For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and 
-	irrevocable license to contributors. Precisely, the SIMPLE-Crypto CLA is available [here](???).
+	irrevocable license to contributors. Precisely, the SIMPLE-Crypto CLA is available [here](???){:target="_blank"}.
 
 * <strong><em>Licensing of SIMPLE-Crypto implementations.</em></strong> 
 The type of license under which SIMPLE-Crypto implementations are released depends on
@@ -88,8 +88,11 @@ the project stage:
 	Gold sponsoring gives access to a yearly non-copyleft license for commercial closed source developments.
 	Precisely, sponsors are granted a yearly MIT license during the gold sponsoring, which is translated into
 	a perpetual MIT license after 5 years of gold sponsoring. 
-	* After final release, the codes become available for the whole community
+	* Whe final release takes place, the codes become available for the whole community
 	under a perpetual non-copyleft licenses. Precisely, we use the MIT license for both software and
 	hardware developments. 
 
-Besides, our evaluation tools will only be released under a copyleft license, namely the AGPLv3 one.
+Our evaluation tools will be published under a copyleft license, namely the AGPLv3 one.
+Bronze sponsoring grants access to a yearly non-copyleft licence, namely the MIT one.
+They will not be released under a perpetual non-copyleft license because we expect
+tools to be continuously updated.
