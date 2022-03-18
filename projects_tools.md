@@ -1,4 +1,8 @@
-# Projects and Tools
+---
+layout: default
+title: Projects and Tools
+---
+# {{ page.title }}
 
 The SIMPLE-Crypto Association is currently working on different code projects and evaluation toolls described below.
 For each project, we give a succing summary, a link to academic publications whenever possible

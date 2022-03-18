@@ -1,4 +1,8 @@
-# Contact
+---
+layout: default
+title: Contact
+---
+# {{ page.title }}
 
 SIMPLE-Crypto ASBL<br>
 Association Sans But Lucratif<br>

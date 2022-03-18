@@ -1,4 +1,8 @@
-# Trainings
+---
+layout: default
+title: Trainings
+---
+# {{ page.title }}
 
 The SIMPLE-Crypto Association organizes both general and specialized trainings in order to help
 designers integrating our open source solutions in their products.

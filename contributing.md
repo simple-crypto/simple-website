@@ -1,4 +1,8 @@
-# Contributing
+---
+layout: default
+title: Contributing
+---
+# {{ page.title }}
 
 **The scheme below is pending approval. We are unfortunately not yet able to accept contributions for now.**
 

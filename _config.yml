@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
-title: SIMPLE-Crypto Association
-description: Open Source Secure Implementation of Cryptographic Algorithms
+title: 'SIMPLE-Crypto Association'
+description: 'Open Source Secure Implementation of Cryptographic Algorithms'
+lang: 'en-US'
 show_downloads: false
+google_analytics: false
 

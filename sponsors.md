@@ -1,4 +1,8 @@
-# Sponsors
+---
+layout: default
+title: Sponsors
+---
+# {{ page.title }}
 
 The SIMPLE-Crypto Association is funded by donations from world-class security organisations committed to our missions.
 Our standard (yearly) sponsorship levels are described next together with a list of public sponsors. 

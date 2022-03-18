@@ -1,4 +1,8 @@
-# Organization 
+---
+layout: default
+title: Organization
+---
+# {{ page.title }}
 
 The SIMPLE-Crypto Association is based on a flexible model with minimum 
 overheads. It is aimed to enable the integration and maintenance of code projects from 

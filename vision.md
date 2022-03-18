@@ -1,4 +1,8 @@
-# Vision: transparency as a measure of maturity
+---
+layout: default
+title: Vision: transparency as a measure of maturity
+---
+# {{ page.title }}
 
 **The case of cryptographic algorithms**
 
