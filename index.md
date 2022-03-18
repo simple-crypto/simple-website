@@ -1,4 +1,8 @@
-# Home
+---
+layout: default
+title: Home
+---
+# {{ page.title }}
 
 The Secure Cryptographic Implementation Association (short SIMPLE-Crypto Association) is a non-profit organization created in order 
 to develop open source cryptographic implementations and to maintain them over time. It targets various
