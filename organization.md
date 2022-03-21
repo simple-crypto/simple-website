@@ -84,8 +84,7 @@ Before we can accept your code/documentation contributions, we need you to sign 
 	* The CLA is with SIMPLE, a non-profit organization whose statutary goal is to develop open source cryptographic implementations.
 	
 	For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and 
-	irrevocable license to contributors. Precisely, the SIMPLE-Crypto CLA is available [here](???){:target="_blank"}.
-
+	irrevocable license to contributors. 
 	If you are the author and own the copyright of your contributions (or if you have the right to license it), 
 	please sign and send us the <a href="pdfs/cla_individual.pdf">individual CLA</a> by <a href="mailto:info@simple-crypto.dev">e-mail</a>.
 	If the copyright of your contributions belongs to a company, please ensure that 
@@ -108,3 +107,9 @@ Our evaluation tools will be published under a copyleft license, namely the AGPL
 Silver sponsoring grants access to a yearly non-copyleft licence, namely the MIT one.
 They will not be released under a perpetual non-copyleft license because we expect
 tools to be continuously updated.
+
+_A note on patents._ The SIMPLE-Crypto Association does not fill patents.
+Our developments are all based on peer-reviewed published solutions and are either free of patents 
+or should become free of patents in the long term. In the mid term, code projects are
+provided “as is”, without warranty of any kind, express or implied, including but not limited to 
+the warranties of merchantability, fitness for a particular purpose and noninfringement. 
