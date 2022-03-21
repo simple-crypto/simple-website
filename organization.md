@@ -10,10 +10,13 @@ different partners. At high level, we
 start funding researchers (possibly co-affiliated with 
 other research institutes or universities) to evaluate and maintain the
 codes once our scientific council expressed sufficient interest and we
-collected sufficient sponsoring. Details about the yearly schedule of the association,
-the lifetime of its projects and its licening policy are given next.
+collected sufficient sponsoring. We next detail:
 
-**Yearly schedule of the association**
+* The [yearly schedule of the association](#schedule),
+* The [lifetime of the association's projects](#lifetime),
+* The [licencing policy of the association](#licenses).
+
+**<a name="schedule">Yearly schedule of the association</a>**
 
 A typical year of the SIMPLE-Crypto Association follows four main steps:
 * <strong><em>Yearly report.</em></strong> The developers of the association write a public 
@@ -31,7 +34,7 @@ The two main criteria driving the selection of the projects are:
 background or convincing proofs-of-concept from the academic literature).
 * Their mid/long-term relevance for emerging industrial applications.
 
-**Lifetime of the association's projects**
+**<a name="lifetime">Lifetime of the association's projects</a>**
 
 The typical lifetime of an open source project follows the following stages:
 * <strong><em>Development.</em></strong> The selected projects are 
@@ -53,8 +56,7 @@ A call for contributions aiming at improving the code is open.
 The yearly gold sponsoring enables its integration under
 a non-copyleft license, while it remains available under a copyleft license
 for open source developments, which we denote as dual licensing.
-After 5 years of gold sponsoring of a code, sponsors receive a perpetual non-copyleft 
-license for it. As long as a code is gold-sponsored, the detection of security flaws 
+As long as a code is gold-sponsored, the detection of security flaws 
 goes through a separate incident response process, following standard responsible
 disclosure practice and rewarded by bug bounties.
 Flaws are first communicated to the association and forwarded
@@ -62,10 +64,10 @@ to sponsors. Their public release may be delayed. In case security flaws imply
 a need of re-design, this re-design is automatically suggested as a potential development
 for the coming year. 
 * <strong><em>Final release.</em></strong> Once the code has been gold-sponsored 
-for at least 5 years and is not sponsored anymore, it is released 
+for at least 5 years, it is released 
 under a non-copyleft license for the whole community.
 
-**Licencing policy of the association** 
+**<a name="licenses">Licencing policy of the association</a>** 
 
 * <strong><em>Contributor License Agreement (CLA).</em></strong>
 We ask contributors (individual or enterprises) to sign a CLA. It aims to:
