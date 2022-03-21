@@ -40,7 +40,7 @@ relies is available [here](https://tches.iacr.org/index.php/TCHES/article/view/8
 
 **<a name="tools">Evaluation tools</a>**
 
-* <strong><em>SCALib</em></strong>, the Side-Channel Analysis Library,
+<strong><em>SCALib</em></strong>, the Side-Channel Analysis Library,
 is a Python package that contains state-of-the-art tools for side-channel security evaluations. 
 It focuses on providing efficient implementations of analysis methods widely used by the 
 side-channel research community and maintaining a simple and flexible interface. The library
