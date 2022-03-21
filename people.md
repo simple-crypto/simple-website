@@ -4,10 +4,6 @@ title: People
 ---
 # {{ page.title }}
 
-The SIMPLE-Crypto association is operated by:
-* [Researchers/developers](#researchers),
-* A [scientific council](#council).
-
 **<a name="codes">Researchers/developers</a>**
 
 The following researchers are our current contact points for the ongoing projects of the associations:
