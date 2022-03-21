@@ -53,8 +53,8 @@ preliminary security evaluation report. A challenge is organized
 based on public data sets, linked to scientific conferences whenever possible.
 A call for contributions aiming at improving the code is open.
 * <strong><em>Gold sponsoring.</em></strong> The code is used in industrial projects.
-The yearly gold sponsoring enables its integration under
-a non-copyleft license, while it remains available under a copyleft license
+The gold sponsoring enables its integration under
+a non-copyleft license during the membership year, while it remains available under a copyleft license
 for open source developments, which we denote as dual licensing.
 As long as a code is gold-sponsored, the detection of security flaws 
 goes through a separate incident response process, following standard responsible
@@ -64,13 +64,16 @@ to sponsors. Their public release may be delayed. In case security flaws imply
 a need of re-design, this re-design is automatically suggested as a potential development
 for the coming year. 
 * <strong><em>Final release.</em></strong> Once the code has been gold-sponsored 
-for at least 5 years, it is released 
-under a non-copyleft license for the whole community.
+for 5 years, it is released under a non-copyleft license for the whole community.
 
 **<a name="licenses">Licencing policy of the association</a>** 
 
 * <strong><em>Contributor License Agreement (CLA).</em></strong>
-We ask contributors (individual or enterprises) to sign a CLA. It aims to:
+We welcome contributions to our projects through bug reports, code and 
+documentation contributions. Please see our <a href="https://github.com/simple-crypto/">Github page</a>. 
+You can also submit contributions by <a href="mailto:info@simple-crypto.dev">e-mail</a>.
+
+Before we can accept your code/documentation contributions, we need you to sign a CLA. It aims to:
 	* Ensure that SIMPLE-Crypto can relicense the works;
 	* Enable the dual-licensing model;
 	* Ensure that SIMPLE-Crypto has authority to enforce the (open source) license clauses;
@@ -84,6 +87,11 @@ We ask contributors (individual or enterprises) to sign a CLA. It aims to:
 	For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and 
 	irrevocable license to contributors. Precisely, the SIMPLE-Crypto CLA is available [here](???){:target="_blank"}.
 
+If you are the author and own the copyright of your contributions (or if you have the right to license it), 
+please sign and send us the <a href="pdfs/cla_individual.pdf">individual CLA</a> by <a href="mailto:info@simple-crypto.dev">e-mail</a>.
+If the copyright of your contributions belongs to a company, please ensure that 
+the <a href="pdfs/cla_entity.pdf">entity CLA</a> has been signed by an authorized representative and sent to us.
+
 * <strong><em>Licensing of SIMPLE-Crypto implementations.</em></strong> 
 The type of license under which SIMPLE-Crypto implementations are released depends on
 the project stage:
@@ -92,9 +100,8 @@ the project stage:
 	* During the gold sponsoring stage, we use a dual licensing approach. Codes are available under the 
 	same copyleft license as for the development and public evaluation stages for open source developments. 
 	Gold sponsoring gives access to a yearly non-copyleft license for commercial closed source developments.
-	Precisely, sponsors are granted a yearly MIT license during the gold sponsoring, which is translated into
-	a perpetual MIT license after 5 years of gold sponsoring. 
-	* Whe final release takes place, the codes become available for the whole community
+	Precisely, sponsors are granted a yearly MIT license during the gold sponsoring. 
+	* When final release takes place, the codes become available for the whole community
 	under a perpetual non-copyleft licenses. Precisely, we use the MIT license for both software and
 	hardware developments. 
 
