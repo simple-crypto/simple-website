@@ -6,10 +6,10 @@ title: Projects and Tools
 
 The main outputs of the SIMPLE-Crypto Association are:
 * [Code projects](#codes), 
-* [Evaluation tools],(#tools)
+* [Evaluation tools](#tools)
 * [Trainings](#trainings).
 
-**<a name="codes">Code projects</a>
+**<a name="codes">Code projects</a>**
 
 For each code project, we give a succing summary, a link to academic publications whenever possible
 and a link to the page hosting the code with documentation and data sets when moving to
@@ -38,7 +38,7 @@ relies is available [here](https://tches.iacr.org/index.php/TCHES/article/view/8
 -->
 
 
-**<a name="tools">Evaluation tools</a>
+**<a name="tools">Evaluation tools</a>**
 
 * <strong><em>SCALib</em></strong>, the Side-Channel Analysis Library,
 is a Python package that contains state-of-the-art tools for side-channel security evaluations. 
@@ -48,7 +48,7 @@ is used as a first tool to assess the security of our open source implementation
 Installation details and code are available [here](https://scalib.readthedocs.io/){:target="_blank"}.
 
 
-**<a name="trainings">Trainings</a>
+**<a name="trainings">Trainings</a>**
 
 The SIMPLE-Crypto Association organizes both general and specialized trainings in order to help
 designers integrating our open source solutions in their products.
