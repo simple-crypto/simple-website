@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Vision: transparency as a measure of maturity'
+title: 'Vision'
 ---
 # {{ page.title }}
 

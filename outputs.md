@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Projects and Tools
+title: Outputs
 ---
 # {{ page.title }}
 
 The main outputs of the SIMPLE-Crypto Association are:
 * [Code projects](#codes), 
-* [Evaluation tools](#tools)
+* [Evaluation tools](#tools),
 * [Trainings](#trainings).
 
 **<a name="codes">Code projects</a>**
