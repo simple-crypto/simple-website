@@ -31,6 +31,6 @@ Access to (non-exclusive) proprietary licenses can be considered without direct 
 for example in case of  in-kind contributions to the association. 
 
 
-**List of sponsors**
+<!--**List of sponsors**-->
 
 <!-- **Former sponsors** -->
