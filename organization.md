@@ -42,7 +42,7 @@ The typical lifetime of an open source project follows the following stages:
 developed towards prototype codes with accurate documentation and test vectors. Their
 (e.g., physical) security is evaluated internally, by the association's
 researchers. More precisely:
-	* Codes are based on standard interfaces (e.g., [AXI](https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface)
+	* Codes are based on standard interfaces (e.g., [AXI](https://en.wikipedia.org/wiki/Advanced_eXtensible_Interface){:target="_blank"}
 for hardware developments). 
 	* Documentation includes a tool for predicting the exact state of an implementation at any given cycle, 
 in order to facilitate worst-case physical security evaluations.
@@ -71,8 +71,8 @@ for 5 years, it is released under a non-copyleft license for the whole community
 
 * <strong><em>Contributor License Agreement (CLA).</em></strong>
 We welcome contributions to our projects through bug reports, code and 
-documentation contributions. Please see our <a href="https://github.com/simple-crypto/">Github page</a>. 
-You can also submit contributions by <a href="mailto:info@simple-crypto.dev">e-mail</a>.
+documentation contributions. Please see our <a href="https://github.com/simple-crypto/" target="_blank">Github page</a>. 
+You can also submit contributions by <a href="mailto:info@simple-crypto.dev" >e-mail</a>.
 Before we can accept your code/documentation contributions, we need you to sign a CLA. It aims to:
 	* Ensure that SIMPLE-Crypto can relicense the works;
 	* Enable the dual-licensing model;
@@ -87,9 +87,9 @@ Before we can accept your code/documentation contributions, we need you to sign 
 	For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and 
 	irrevocable license to contributors. 
 	If you are the author and own the copyright of your contributions (or if you have the right to license it), 
-	please sign and send us the <a href="pdfs/cla_individual.pdf">individual CLA</a> by <a href="mailto:info@simple-crypto.dev">e-mail</a>.
+	please sign and send us the <a href="pdfs/cla_individual.pdf" target="_blank">individual CLA</a> by <a href="mailto:info@simple-crypto.dev">e-mail</a>.
 	If the copyright of your contributions belongs to a company, please ensure that 
-	the <a href="pdfs/cla_entity.pdf">entity CLA</a> has been signed by an authorized representative and sent to us.
+	the <a href="pdfs/cla_entity.pdf" target="_blank">entity CLA</a> has been signed by an authorized representative and sent to us.
 
 * <strong><em>Licensing of SIMPLE-Crypto implementations.</em></strong> 
 The type of license under which SIMPLE-Crypto implementations are released depends on
