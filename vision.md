@@ -57,17 +57,17 @@ by obscurity paradigm becomes less justified and its benefits are outweighted by
 That is, while a closed source approach can limit the adversary's understanding of the target
 implementations as long as their specifications remain opaque, it also limits the public
 understanding of the mechanims on which security relies, and therefore the possibility to optimize them.
-by contrast, an open approach to security can lead to a better evaluation of the worst-case
-security level that is typically targeted by cryptographic designs.
+By contrast, an open approach to security can lead to a better evaluation of the worst-case
+security level that is targeted by cryptographic designs.
 
 **Goals and interest of an open implementation approach**
 
 We envision the main goals and the interest of the SIMPLE-Crypto Association as follows:
 
 * <strong><em>Improving the long-term security of cryptographic implementations</em></strong>. The rationale 
-supporting our vision is that over time, the continuous and public evaluation process that the SIMPLE-Crypto
+supporting our vision is that over time, the continuous and  public worst-case evaluation process that the SIMPLE-Crypto
 Association leverages will lead to better confidence in the security of its open 
-solutions than more time-constrained certifications.
+solutions than more time-constrained developments.
 
 * <strong><em>Developing and preserving the integrity of open source security technologies</em></strong>. For this purpose, we 
 provide an infrastructure for open source cryptographic hardware and software 
@@ -90,7 +90,7 @@ solutions in complex systems).
 * <strong><em>Amplifying standardization efforts</em></strong>. Standardized algorithms
 and evaluation methodologies are essential ingredients towards systematizing research advances into technological
 building blocks that can be leveraged in real-world applications. Yet, it generally aims at some
-genericity that we aim to enrich by maintaining implementations and, in the case of
+genericity that we hope to enrich by maintaining implementations and, in the case of
 algorithms with embedded security guarantees, public evaluations and data sets on relevant
 technologies.
 
