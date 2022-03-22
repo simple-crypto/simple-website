@@ -29,7 +29,7 @@ and establishes a priority list with potential developers. The report is updated
 Developers are contacted following the priority list and open source projects are 
 launched for one year given the budget constraints.
 
-The two main criteria driving the selection of the projects are:
+The three main criteria driving the selection of the projects are:
 * Their scientific maturity (i.e., the existence of a theoretical 
 background or convincing proofs-of-concept from the academic literature).
 * Their mid/long-term relevance for emerging industrial applications.
