@@ -57,6 +57,8 @@ by obscurity paradigm becomes less justified and its benefits are outweighted by
 That is, while a closed source approach can limit the adversary's understanding of the target
 implementations as long as their specifications remain opaque, it also limits the public
 understanding of the mechanims on which security relies, and therefore the possibility to optimize them.
+by contrast, an open approach to security can lead to a better evaluation of the worst-case
+security level that is typically targeted by cryptographic designs.
 
 **Goals and interest of an open implementation approach**
 
