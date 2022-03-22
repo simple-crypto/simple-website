@@ -64,3 +64,9 @@ training is aimed at designers willing to integrate side-channel resistant
 SIMPLE-Crypto implementations in their products. Since such integration may modify the leakage behavior
 of our stand-alone codes, the training aims at helping designers re-assessing our implementations
 after integration.
+
+_A note on patents._ The SIMPLE-Crypto Association does not fill patents.
+Our developments are all based on peer-reviewed published solutions and are either free of patents 
+or should become free of patents in the long term. In the mid term, code projects are
+provided “as is”, without warranty of any kind, express or implied, including but not limited to 
+the warranties of merchantability, fitness for a particular purpose and noninfringement. 
