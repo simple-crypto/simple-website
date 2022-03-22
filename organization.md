@@ -33,6 +33,7 @@ The two main criteria driving the selection of the projects are:
 * Their scientific maturity (i.e., the existence of a theoretical 
 background or convincing proofs-of-concept from the academic literature).
 * Their mid/long-term relevance for emerging industrial applications.
+* Their security in the worst-case evaluation setting that the association promotes.
 
 **<a name="lifetime">Lifetime of the association's projects</a>**
 
@@ -107,9 +108,3 @@ Our evaluation tools will be published under a copyleft license, namely the AGPL
 Silver sponsoring grants access to a yearly non-copyleft licence, namely the MIT one.
 They will not be released under a perpetual non-copyleft license because we expect
 tools to be continuously updated.
-
-_A note on patents._ The SIMPLE-Crypto Association does not fill patents.
-Our developments are all based on peer-reviewed published solutions and are either free of patents 
-or should become free of patents in the long term. In the mid term, code projects are
-provided “as is”, without warranty of any kind, express or implied, including but not limited to 
-the warranties of merchantability, fitness for a particular purpose and noninfringement. 
