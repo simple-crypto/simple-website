@@ -20,14 +20,14 @@ collected sufficient sponsoring. We next detail:
 
 A typical year of the SIMPLE-Crypto Association follows four main steps:
 * <strong><em>Yearly report.</em></strong> The developers of the association write a public 
-report describing yearly progresses and listing potential plans for the next year.   
+report describing yearly progresses and listing potential plans with a tentative time budget for the next year.   
 * <strong><em>Sponsors' workshop.</em></strong> Sponsors meet during an annual workshop to discuss 
 the report and identify promising developments. The report is updated based on this feedback.
 * <strong><em>Scientific council.</em></strong> The scientific council reviews the proposed developments
 and establishes a priority list with potential developers. The report is updated based on this feedack.
 * <strong><em>Projects selection.</em></strong> The association board approves the report. 
-Developers are contacted following the priority list and open source projects are 
-launched for one year given the budget constraints.
+Developers are contacted following the priority list by the association's contact points (see the people tag)
+and open source projects are launched for one year given the budget constraints.
 
 The three main criteria driving the selection of the projects are:
 * Their scientific maturity (i.e., the existence of a theoretical 
