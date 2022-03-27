@@ -24,7 +24,8 @@ report describing yearly progresses and listing potential plans (with a tentativ
 * <strong><em>Sponsors' workshop.</em></strong> Sponsors meet during an annual workshop to discuss 
 the report and identify promising developments. The report is updated based on this feedback.
 * <strong><em>Scientific council.</em></strong> The scientific council reviews the proposed developments
-and establishes a priority list of project. The report is updated based on this feedack.
+and establishes a priority list of projects. It also makes suggestions of developers to contact. 
+The report is updated based on this feedack.
 * <strong><em>Projects selection.</em></strong> The association board approves the report. 
 Developers are contacted to work on the projects of the priority list by the association's contact points
 (see the people tag) and open source projects are launched for one year given the budget constraints.
@@ -32,8 +33,9 @@ Developers are contacted to work on the projects of the priority list by the ass
 The three main criteria driving the selection of the projects are:
 * Their scientific maturity (i.e., the existence of a theoretical 
 background or convincing proofs-of-concept from the academic literature).
-* Their mid/long-term relevance for emerging industrial applications.
 * Their security in the worst-case evaluation setting that the association promotes.
+* Their mid/long-term relevance for emerging industrial applications.
+* Their genericity and portability on the widest possible range of devices and platforms.
 
 **<a name="lifetime">Lifetime of the association's projects</a>**
 
