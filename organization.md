@@ -30,7 +30,7 @@ The report is updated based on this feedack.
 Developers are contacted to work on the projects of the priority list by the association's contact points
 (see the people tag) and open source projects are launched for one year given the budget constraints.
 
-The three main criteria driving the selection of the projects are:
+The four main criteria driving the selection of the projects are:
 * Their scientific maturity (i.e., the existence of a theoretical 
 background or convincing proofs-of-concept from the academic literature).
 * Their security in the worst-case evaluation setting that the association promotes.
