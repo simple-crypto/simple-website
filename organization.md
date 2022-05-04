@@ -27,7 +27,8 @@ and establishes a priority list of projects. It also makes suggestions of develo
 The report is updated based on this feedack.
 * <strong><em>Projects selection.</em></strong> The association board approves the report which is published on the SIMPLE-Crypto website. 
 Developers are contacted to work on the projects of the priority list by the association's contact points
-(see the people tag) and open source projects are launched for one year given the budget constraints.
+(see the people tag) and open source projects are launched (e.g., via internships or other relevant means) 
+for one year given the budget constraints.
 
 The four main criteria driving the selection of the projects are:
 * Their scientific maturity (i.e., the existence of a theoretical 
