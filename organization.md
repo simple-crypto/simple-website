@@ -101,12 +101,12 @@ the project stage:
 	* During the gold sponsoring stage, we use a dual licensing approach. Codes are available under the 
 	same copyleft license as for the development and public evaluation stages for open source developments. 
 	Gold sponsoring gives access to a yearly non-copyleft license for commercial closed source developments.
-	Precisely, sponsors are granted a yearly MIT license during the gold sponsoring. 
+	Precisely, sponsors are granted a yearly MIT-like license during the gold sponsoring. 
 	* When final release takes place, the codes become available for the whole community
-	under a perpetual non-copyleft licenses. Precisely, we use the MIT license for both software and
+	under a perpetual non-copyleft licenses. Precisely, we use a MIT-like license for both software and
 	hardware developments. 
 
 Our evaluation tools will be published under a copyleft license, namely the AGPLv3 one.
-Silver sponsoring grants access to a yearly non-copyleft licence, namely the MIT one.
+Silver sponsoring grants access to a yearly non-copyleft licence, namely a MIT-like one.
 They will not be released under a perpetual non-copyleft license because we expect
 tools to be continuously updated.
