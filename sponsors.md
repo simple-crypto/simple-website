@@ -28,7 +28,7 @@ Gold sponsoring for multiple code projects leads to adapted fees (20 kE for the 
 15kE for the 3rd one, 10kE for the 4th one and 5kE for all the following ones). 
 
 Access to (non-exclusive) proprietary licenses can be considered without direct sponsoring, 
-for example in case of  in-kind contributions to the association. 
+for example in case of in-kind contributions. Those cases are discussed by the association board.
 
 
 <!--**List of sponsors**-->
