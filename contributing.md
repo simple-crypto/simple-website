@@ -4,8 +4,6 @@ title: Contributing
 ---
 # {{ page.title }}
 
-**The scheme below is pending approval. We are unfortunately not yet able to accept contributions for now.**
-
 We welcome contributions to our projects through bug reports, code and documentation contributions, etc. to our projects. Please see our <a href="https://github.com/simple-crypto/">Github page</a>. You can also submit contributions by <a href="mailto:info@simple-crypto.dev">e-mail</a>.
 
 Before we can accept your code/documentation contributions, we need you to sign a contributor license agreement (CLA). This aims to:
