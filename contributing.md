@@ -20,4 +20,5 @@ The contributor is still guaranteed that:
 
 If you are the author and own the copyright of your contributions (or if you have the right to license it), please sign and send us by <a href="mailto:info@simple-crypto.dev">e-mail</a> the <a href="pdfs/cla_individual.pdf">individual CLA</a>.
 If the copyright of your contributions belong to a company, please ensure that the <a href="pdfs/cla_entity.pdf">entity CLA</a> has been signed by an authorized representative and sent to us.
+If you do not own the copyright in the entire contribution, please mention it whenever you submit it.
 
