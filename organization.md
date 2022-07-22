@@ -72,26 +72,8 @@ for 5 years, it is released under a non-copyleft license for the whole community
 **<a name="licenses">Licencing policy of the association</a>** 
 
 * <strong><em>Contributor License Agreement (CLA).</em></strong>
-We welcome contributions to our projects through bug reports, code and 
-documentation contributions. Please see our <a href="https://github.com/simple-crypto/" target="_blank">Github page</a>. 
-You can also submit contributions by <a href="mailto:info@simple-crypto.dev" >e-mail</a>.
-Before we can accept your code/documentation contributions, we need you to sign a CLA. It aims to:
-	* Ensure that SIMPLE-Crypto can relicense the works;
-	* Enable the dual-licensing model;
-	* Ensure that SIMPLE-Crypto has authority to enforce the (open source) license clauses;
-	* Ensure that no contributor will sue any user of the code for patent infringement caused by the contribution.
-	
-	The contributor is still guaranteed that:
-	* He/she retains copyright on his/her contributions;
-	* The contributions will be publicly licensed according to the development stage of the project.
-	* The CLA is with SIMPLE, a non-profit organization whose statutary goal is to develop open source cryptographic implementations.
-	
-	For these purposes, the CLA requests a perpetual, worldwide, non-exclusive, no charge, royalty-free and 
-	irrevocable license to contributors. 
-	If you are the author and own the copyright of your contributions (or if you have the right to license it), 
-	please sign and send us the <a href="pdfs/cla_individual.pdf" target="_blank">individual CLA</a> by <a href="mailto:info@simple-crypto.dev">e-mail</a>.
-	If the copyright of your contributions belongs to a company, please ensure that 
-	the <a href="pdfs/cla_entity.pdf" target="_blank">entity CLA</a> has been signed by an authorized representative and sent to us.
+We welcome contributions to our projects, see <a href="/contributing">this
+page</a> for more details.
 
 * <strong><em>Licensing of SIMPLE-Crypto implementations.</em></strong> 
 The type of license under which SIMPLE-Crypto implementations are released depends on
