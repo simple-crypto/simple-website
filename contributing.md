@@ -18,7 +18,8 @@ The contributor is still guaranteed that:
 - The contributions will be publicly licensed according to the development stage of the project.
 - The CLA is with SIMPLE, a non-profit organization whose statutary goal is to develop open source cryptographic implementations.
 
-If you are the author and own the copyright of your contributions (or if you have the right to license it), please sign and send us by <a href="mailto:info@simple-crypto.dev">e-mail</a> the <a href="pdfs/cla_individual.pdf">individual CLA</a>.
+If you are the author and own the copyright of your contributions (or if you have the right to license it), please sign the <a href="pdfs/cla_individual.pdf">individual CLA</a>.
 If the copyright of your contributions belong to a company, please ensure that the <a href="pdfs/cla_entity.pdf">entity CLA</a> has been signed by an authorized representative and sent to us.
 If you do not own the copyright in the entire contribution, please mention it whenever you submit it.
 
+Send us the CLA by <a href="mailto:info@simple-crypto.dev">e-mail</a>, and mention your Github username (if you contribute on Github).
