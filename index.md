@@ -23,4 +23,6 @@ member or in case you want to contribute to developments.
 
 **News**
 
-* February 25, 2022. SIMPLE-Crypto is founded.
+* April 2022. First SIMPLE-Crypto sponsor workshop.
+* February 2022. SIMPLE-Crypto is founded.
+* April 2021. First release of the SCALib library.
