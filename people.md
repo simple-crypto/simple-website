@@ -11,14 +11,14 @@ The following researchers are our current contact points for the ongoing project
 * Software implementations contact point: [Gaëtan Cassiers](https://dblp.org/pid/220/2633.html){:target="_blank"}
 * Hardware implementations contact point: [Charles Momin](https://dblp.org/pid/258/9153.html){:target="_blank"}
 
-**Active researchers:** 
-[Olivier Bronchain](https://dblp.org/pid/227/9029.html){:target="_blank"}, 
+**Active researchers/developers:** 
 [Gaëtan Cassiers](https://dblp.org/pid/220/2633.html){:target="_blank"}, 
 [Charles Momin](https://dblp.org/pid/258/9153.html){:target="_blank"}, 
 [Balazs Udvarhelyi](https://dblp.uni-trier.de/pid/271/5385.html){:target="_blank"}.
+[Corentin Verhamme](https://dblp.org/pid/328/5205.html){:target="_blank"}.
 
-<!--**Former researchers/developers:**-->
-
+**Former researchers/developers:**
+[Olivier Bronchain](https://dblp.org/pid/227/9029.html){:target="_blank"}, 
 
 **<a name="council">Scientific council</a>**
 
