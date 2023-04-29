@@ -1,5 +1,7 @@
 ---
 title: Activities
+layout: single
+aliases: ["/outputs"]
 ---
 
 ## Open-source codes
@@ -7,14 +9,23 @@ title: Activities
 SIMPLE-Crypto develops and maintains open-source projects related to secure
 implementations of cryptographic algorithms in embedded systems.
 
-* [**SMAesH**](/projects/smaesh) A hardware implementation of the AES block cipher with masking as a countermeasure against side-channel attacks.
-* [**SCALib**](/projects/scalib) SIMPLE's Side-Channel evaluation library.
+* [**SMAesH**](/activities/smaesh) A hardware implementation of the AES block cipher with masking as a countermeasure against side-channel attacks.
+* [**SCALib**](/activities/scalib) SIMPLE's Side-Channel evaluation library.
 * *More to come!* 
 
 ## Trainings
 
-*(In devlopment.)*
+*(In development.)*
 
+The SIMPLE-Crypto Association will organize trainings in order to help
+designers integrating our open source solutions in their products.
+
+## Activity report
+
+Following our [yearly schedule](/about/organization), we publish yearly activity reports:
+- [2022 activity report](/pdfs//SIMPLE_report_2023_v1.pdf)
+
+<!--
 The SIMPLE-Crypto Association will organize both general and specialized trainings in order to help
 designers integrating our open source solutions in their products.
 
@@ -30,6 +41,7 @@ SIMPLE-Crypto implementations in their products. Since such integration may modi
 of our stand-alone codes, the training aims at helping designers re-assessing our implementations
 after integration.
 
+-->
 
 
 <!--

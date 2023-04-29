@@ -15,6 +15,12 @@ $light: #FFFFFF;
 // scss-docs-start import-stack
 // Configuration
 @import "bootstrap/scss/functions";
+
+// Custom configuration
+$spacer: 1rem; // Same as default
+$headings-margin-bottom: $spacer * 1.0; // default: $spacer * .5
+
+
 @import "bootstrap/scss/variables";
 @import "bootstrap/scss/mixins";
 @import "bootstrap/scss/utilities";

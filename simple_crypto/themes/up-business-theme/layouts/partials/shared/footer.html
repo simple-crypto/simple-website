@@ -13,23 +13,25 @@
         </ul>
         {{ end }}
       </div>
+      {{ with .Site.Menus.footer }}
       <div class="col-12 col-xl-2 text-center text-xl-start pb-4">
         <h5 class="fs-6 fw-semibold text-primary">About us</h5>
         <ul class="list-unstyled">
-          {{ range .Site.Menus.footer }}
+          {{ range . }}
             <li class="">
               <a class="small text-black-61 text-decoration-none" href="{{ .URL }}">{{ .Name }}</a>
             </li>
           {{ end }}
         </ul>
       </div>
+      {{ end }}
       <div class="col-12 col-xl-3 text-center text-xl-start pb-4">
         <h5 class="fs-6 fw-semibold text-primary">Location</h5>
         <ul class="list-unstyled">
           {{ range .Site.Params.location }}
             <li class="d-flex justify-content-center justify-content-xl-start mb-2">
               <div class="d-flex align-items-center text-primary">{{ partial "icons/geo-alt.html" }}</div>
-              <p class="small text-black-61 m-0 ps-2">{{ . }}</p>
+              <p class="small text-black-61 m-0 ps-2">{{ . | safeHTML }}</p>
             </li>
           {{ end }}
         </ul>
@@ -37,14 +39,14 @@
       <div class="col-12 col-xl-3 text-center text-xl-start pb-4">
         <h5 class="fs-6 fw-semibold text-primary">Contact us</h5>
         {{ range .Site.Params.contact }}
-          <p class="small text-black-61 mb-1">{{ . }}</p>
+          <p class="small text-black-61 mb-1">{{ . | safeHTML }}</p>
         {{ end }}
       </div>
     </div>
     <div class="row">
       <div class="col-12">
         {{ with .Site.Params.copyright }}
-          <p class="small text-black-61 text-center">{{ . }}</p>
+          <p class="small text-black-61 text-center">{{ . | safeHTML }}</p>
         {{ end }}
       </div>
     </div>

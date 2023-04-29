@@ -21,7 +21,7 @@ its [application to the AES](https://eprint.iacr.org/2022/252).
 Current status:
 - AES 128-bit encryption implemented
 - FPGA-validated
-- Public review
+- [Lifetime stage](/about/organization#lifetime): Public evaluation
 - [Evaluation challenge](https://smaesh-challenge.simple-crypto.org/) with a side-channel dataset
 
 Get the

@@ -1,0 +1,104 @@
+
+hero:
+  enabled: true
+  id: "hero"
+  
+  content:
+    title: "The **Secure Cryptographic Implementation** Association"
+    text: |
+      We develop **open-source implementations of cryptographic algorithms**
+      - specialized for embedded systems (hardware and software),
+      - with strong physical security guarantees (e.g., against side-channel and fault attacks),
+      - featuring state-of-the art security and performance,
+      - maintained in the long-term.
+  
+# buttonPrimary:
+#   label: "Our activities"
+#   url: "/activities"
+
+# buttonSecondary:
+#   label: "Project repositories"
+#   url: "https://github.com/simple-crypto"
+
+
+brands:
+  enabled: false
+  id: "brands"
+  
+  content:
+    title: "Supported by"
+    items:
+      #- "images/brands-samsumg.png"
+      #- "images/brands-google.png"
+      #- "images/brands-adobe.png"
+      #- "images/brands-spotify.png"
+      #- "images/brands-dropbox.png"
+
+
+projects:
+  id: "projects"
+
+  content:
+    title: "Recent projects"
+    text: ""
+    cards:
+      -
+        title: "SMAesH"
+        text: "SIMPLE-Crypto's Masked AES in hardware. A hardware implementation of the AES with a strong side-channel security countermeasure.<br><strong>Public evaluation ongoing.</strong>"
+        button:
+          label: "Learn more"
+          url: "/projects/smaesh"
+  
+      -
+        # image: "images/services-web-development.png"
+        title: "SCALib"
+        text: "Our Side-Channel Analysis Library. High-performance and easy-to-use implementation of state-of-the-art tools for side-channel security evaluations. "
+        button:
+          label: "Learn more"
+          url: "/projects/scalib"
+
+
+portfolio:
+  enabled: false
+  id: "portfolio"
+  
+  content:
+    - image: "images/portfolio-ecommerce.png"
+      pretitle: "Portfolio Service"
+      title: "We developed an eCommerce website"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  
+      buttons: 
+        - label: "See live"
+          url: "#"
+  
+        - label: "Read more"
+          url: "#"
+
+
+testimonials:
+  enabled: false
+  id: "testimonials"
+  
+  content:
+    title: "Testimonials"
+  
+    featured:
+      image: "images/testimonials-awards.png"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
+      client: "Anonymous Customer"
+  
+    list:
+      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
+        client: "Anonymous Customer"
+
+cta:
+  enabled: false 
+  id: "cta"
+  
+  content:
+    title: "Start your business now!"
+    image: "images/services-web-development.png"
+    button:
+      label: "Let's talk"
+      url: "#"

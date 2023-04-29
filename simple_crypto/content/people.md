@@ -1,36 +1,29 @@
 ---
-layout: default
 title: People
 ---
-# {{ page.title }}
 
-**<a name="codes">Researchers/developers</a>**
+## Contributors
 
-The following researchers are our current contact points for the ongoing projects of the associations:
-* Evaluation libraries contact point: [Olivier Bronchain](https://dblp.org/pid/227/9029.html){:target="_blank"}
-* Software implementations contact point: [Gaëtan Cassiers](https://dblp.org/pid/220/2633.html){:target="_blank"}
-* Hardware implementations contact point: [Charles Momin](https://dblp.org/pid/258/9153.html){:target="_blank"}
+The following people lead the various projects of SIMPLE-Crypto.
 
-**Active researchers/developers:** 
-[Gaëtan Cassiers](https://dblp.org/pid/220/2633.html){:target="_blank"}, 
-[Charles Momin](https://dblp.org/pid/258/9153.html){:target="_blank"}, 
-[Balazs Udvarhelyi](https://dblp.uni-trier.de/pid/271/5385.html){:target="_blank"}.
-[Corentin Verhamme](https://dblp.org/pid/328/5205.html){:target="_blank"}.
+* [Gaëtan Cassiers](https://perso.cassiersg.be): evaluation library, hardware implementations
+* [Charles Momin](https://dblp.org/pid/258/9153.html): hardware implementations
+* [Balazs Udvarhelyi](https://dblp.uni-trier.de/pid/271/5385.html): evaluation library
+* [Olivier Bronchain](https://obronchain.github.io): trainings, (formerly) evaluation library
 
-**Former researchers/developers:**
-[Olivier Bronchain](https://dblp.org/pid/227/9029.html){:target="_blank"}, 
+All our projects are open to external [contributions](/contributing).
 
-**<a name="council">Scientific council</a>**
+<!-- ### Former contributors -->
+
+## Scientific council
 
 The scientific council plays the role of an advisory board with the goal to identify strategic developments for the association.
 It meets once a year to analyze a scientific report produced by the association and make recommendations for the coming years.
 
-**Active Members**
-[Stefan Mangard](https://dblp.org/pid/91/4831.html){:target="_blank"},
-[Elisabeth Oswald](https://dblp.org/pid/48/4127.html){:target="_blank"},
-[Peter Schwabe](https://dblp.org/pid/30/1431.html){:target="_blank"},
-[François-Xavier Standaert](https://dblp.org/pid/38/2138.html){:target="_blank"}.
+* [Stefan Mangard](https://dblp.org/pid/91/4831.html)
+* [Elisabeth Oswald](https://dblp.org/pid/48/4127.html)
+* [Peter Schwabe](https://dblp.org/pid/30/1431.html)
+* [François-Xavier Standaert](https://perso.uclouvain.be/fstandae/)
 
 <!-- **Former Members** -->
-
 
