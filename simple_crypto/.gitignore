@@ -1,3 +1,4 @@
-.hugo_build.lock
-resources
 jsconfig.json
+/.hugo_build.lock
+/public
+/resources

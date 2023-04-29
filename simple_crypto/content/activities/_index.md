@@ -20,7 +20,7 @@ implementations of cryptographic algorithms in embedded systems.
 The SIMPLE-Crypto Association will organize trainings in order to help
 designers integrating our open source solutions in their products.
 
-## Activity report
+## Activity reports
 
 Following our [yearly schedule](/about/organization), we publish yearly activity reports:
 - [2022 activity report](/pdfs//SIMPLE_report_2023_v1.pdf)
