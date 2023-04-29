@@ -2,7 +2,11 @@
   <div class="container">
     <div class="row flex-column flex-xl-row-reverse">
       <div class="col-12 col-xl-6  d-flex flex-column justify-content-center hero-image">
-        {{ partial "utilities/image-fluid" "images/hero-image.png" }}
+          {{ with resources.Get "images/hero-image.jpg" }}
+          <span class="faded faded-wide faded-all">
+          <img class="img-fluid" src="{{ .Permalink }}" alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+          </span>
+          {{ end }}
       </div>
       <div class="col-12 col-xl-6 d-flex flex-column justify-content-center">
         {{ with .content.title }}

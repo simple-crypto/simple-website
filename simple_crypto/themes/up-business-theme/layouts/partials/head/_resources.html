@@ -1,6 +1,7 @@
 <!-- Load Shared SCSS -->
 {{- $sharedSCSS := resources.Get "scss/shared/shared.scss" -}}
-{{- $sharedSCSS := $sharedSCSS | resources.ToCSS (dict "outputStyle" "compressed" "includePaths" (slice "assets")) -}}
+{{- $options := (dict "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction) "includePaths" (slice "themes/up-business-theme/assets")) -}}
+{{- $sharedSCSS := $sharedSCSS | resources.ToCSS $options -}}
 {{- $sharedSCSS := $sharedSCSS | resources.ExecuteAsTemplate "main.scss" . -}}
 
 <!-- Load Shared JS -->

@@ -10,7 +10,8 @@ summaryLength: 20
 
 params:
   title: "SIMPLE Crypto"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: ""
+  title_footer: false
   images: 
     - "images/hero-image.png"
 
@@ -72,6 +73,11 @@ menus:
         #    - name: "Home"
         #      url: "/#hero"
         #      weight: 1
+
+#module:
+#  mounts:
+#    - source: themes/up-business-theme/assets
+#      target: assets
 
 markup:
   goldmark:
