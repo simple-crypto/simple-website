@@ -33,7 +33,7 @@ params:
   contact:
     - '<a href="mailto:info@simple-crypto.org">info@simple-crypto.org</a>'
 
-  copyright: '© 2022 SIMPLE Crypto (<a href="https://gitlab.com/writeonlyhugo/up-business-demo">webiste template</a>)'
+  copyright: '© 2023 SIMPLE Crypto (<a href="https://gitlab.com/writeonlyhugo/up-business-demo">webiste template</a>)'
 
   postProcess: false
 
@@ -64,7 +64,7 @@ menus:
       weight: 6
 
   buttons:
-    - name: "Our Github"
+    - name: "Fork us on Github"
       url: "https://github.com/simple-crypto"
       weight: 5
       pre: "btn btn-primary text-light"
