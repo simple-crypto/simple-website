@@ -23,7 +23,7 @@ It meets once a year to analyze a scientific report produced by the association 
 * [Stefan Mangard](https://dblp.org/pid/91/4831.html)
 * [Elisabeth Oswald](https://dblp.org/pid/48/4127.html)
 * [Peter Schwabe](https://dblp.org/pid/30/1431.html)
-* [François-Xavier Standaert](https://perso.uclouvain.be/fstandae/)
+* [François-Xavier Standaert](https://dblp.uni-trier.de/pid/38/2138.html)
 
 <!-- **Former Members** -->
 

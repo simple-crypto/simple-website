@@ -47,7 +47,7 @@ projects:
         text: "SIMPLE-Crypto's Masked AES in hardware. A hardware implementation of the AES with a strong side-channel security countermeasure.<br><strong>Public evaluation ongoing.</strong>"
         button:
           label: "Learn more"
-          url: "/projects/smaesh"
+          url: "/activities/smaesh"
   
       -
         # image: "images/services-web-development.png"
@@ -55,7 +55,7 @@ projects:
         text: "Our Side-Channel Analysis Library. High-performance and easy-to-use implementation of state-of-the-art tools for side-channel security evaluations. "
         button:
           label: "Learn more"
-          url: "/projects/scalib"
+          url: "/activities/scalib"
 
 
 portfolio:

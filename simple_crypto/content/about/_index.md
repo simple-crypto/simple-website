@@ -10,5 +10,5 @@ optimization goals, including but not limited to strong embedded security guaran
 side-channel attacks, fault attacks and other physical security issues). Projects include software 
 developments and hardware developments, for various cryptographic algorithms and protocols.
 
-Read more about [our vision](about/vision) and [how we operate](about/organization).
+Read more about [our vision](/about/vision) and [how we operate](/about/organization).
 

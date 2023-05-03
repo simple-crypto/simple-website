@@ -89,7 +89,7 @@ Silver sponsoring grants access to a yearly non-copyleft licence.
 **Contributions welcome**
 We welcome contributions to our projects! In order to enable the licensing
 model explained above, we require contritubotors to signe a Contributor License
-Agreement (CLA), see [the contributing page](/contributing") for more details.
+Agreement (CLA), see [the contributing page](/contributing) for more details.
 
 **Patents**
 The SIMPLE-Crypto Association does not fill patents.
