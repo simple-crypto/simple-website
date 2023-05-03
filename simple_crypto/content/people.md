@@ -1,5 +1,6 @@
 ---
 title: People
+aliases: ["scientific-council", "team"]
 ---
 
 ## Contributors

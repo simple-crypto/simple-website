@@ -1,7 +1,7 @@
 ---
 title: Activities
 layout: single
-aliases: ["/outputs"]
+aliases: ["/outputs", "/project_tools", "trainings"]
 ---
 
 ## Open-source codes
