@@ -4,7 +4,7 @@ title: SMAesH
 
 **SMAesH** is a hardware implementation of the AES block cipher that uses
 masking as a countermeasure against side-channel attacks.
-MOre precisely, we use the Hardware Private Circuits (HPC) masking scheme, which
+More precisely, we use the Hardware Private Circuits (HPC) masking scheme, which
 provides state-of-the-art guarantees in terms of resistance against physical
 defaults (i.e., glitches and transitions) and composability.
 
