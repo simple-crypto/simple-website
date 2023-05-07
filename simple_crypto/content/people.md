@@ -11,7 +11,7 @@ The following people lead the various projects of SIMPLE-Crypto.
 * [Gaëtan Cassiers](https://perso.cassiersg.be): evaluation library, hardware implementations
 * [Charles Momin](https://dblp.org/pid/258/9153.html): hardware implementations
 * [Fraçois-Xavier Standaert](https://perso.uclouvain.be/fstandae/): trainings
-* [Balazs Udvarhelyi](https://dblp.uni-trier.de/pid/271/5385.html): evaluation library.
+* [Balazs Udvarhelyi](https://dblp.uni-trier.de/pid/271/5385.html): evaluation library
 
 All our projects are open to external [contributions](/contributing).
 
