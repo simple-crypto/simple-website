@@ -1,0 +1,5 @@
+{{ $image := resources.Get . }}
+{{ $image := $image.Resize "x400" }}
+{{ with $image }}
+  <img class="img-fluid" src="{{ .Permalink }}">
+{{ end }}

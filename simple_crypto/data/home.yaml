@@ -22,17 +22,18 @@ hero:
 
 
 brands:
-  enabled: false
+  enabled: true 
   id: "brands"
   
   content:
     title: "Supported by"
     items:
-      #- "images/brands-samsumg.png"
-      #- "images/brands-google.png"
-      #- "images/brands-adobe.png"
-      #- "images/brands-spotify.png"
-      #- "images/brands-dropbox.png"
+      - "images/logo_cryptoexperts.png"
+      - "images/logo_ninjalab.jpg"
+      - "images/logo_nist.png"
+      - "images/logo_nxp.png"
+      - "images/logo_pqshield.jpg"
+      - "images/logo_st.png"
 
 
 projects:

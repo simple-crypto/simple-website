@@ -5,7 +5,7 @@ title: Sponsors
 The SIMPLE-Crypto Association is funded by donations from world-class security organisations committed to our missions.
 Our standard (yearly) sponsorship levels are described next. <!-- together with a list of public sponsors.  -->
 
-**Sponsorships**
+# Sponsorships
 
 * **SUPPORTER level (free)**. This level is aimed to support 
 the high-level vision of the association. It gives access to the annual sponsors' workshop
@@ -29,6 +29,16 @@ Gold sponsoring for multiple code projects leads to adapted fees (20 k€ for th
 Monetary sponsoring can be (in parts) replaced by other contributions (e.g., in-kind). Those
 cases are discussed by the association board.
 
+# Current sponsors
+
+## Supporter-level
+
+* [Cryptoexperts](https://cryptoexperts.com)
+* [Ninjalab](https://ninjalab.io)
+* [NIST](https://nist.gov)
+* [NXP Semiconductors](https://nxp.com)
+* [PQShield](https://pqshield.com)
+* [STMicroelectronics](https://st.com)
 
 <!--**List of sponsors**-->
 
