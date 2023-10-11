@@ -39,6 +39,7 @@ cases are discussed by the association board.
 * [NXP Semiconductors](https://nxp.com)
 * [PQShield](https://pqshield.com)
 * [STMicroelectronics](https://st.com)
+* [Thales Belgium](https://www.thalesgroup.com/en/countries/europe/thales-belgium)
 
 <!--**List of sponsors**-->
 
