@@ -23,7 +23,7 @@ designers integrating our open source solutions in their products.
 ## Activity reports
 
 Following our [yearly schedule](/about/organization), we publish yearly activity reports:
-- [2022 activity report](/pdfs/SIMPLE_report_2023_v1.pdf)
+- [2022 activity report](/pdfs/SIMPLE_report_2023_v3.pdf)
 
 <!--
 The SIMPLE-Crypto Association will organize both general and specialized trainings in order to help
