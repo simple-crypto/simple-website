@@ -15,10 +15,11 @@ implementations of cryptographic algorithms in embedded systems.
 
 ## Trainings
 
-*(In development.)*
-
-The SIMPLE-Crypto Association will organize trainings in order to help
+The SIMPLE-Crypto Association organizes trainings in order to help
 designers integrating our open source solutions in their products.
+
+* [**SCALE**](/activities/scale) SIMPLE's training on side-channel analysis and leakage-resistance (next: **June 10-12, 2024**).
+* *More to come!*
 
 ## Activity reports
 

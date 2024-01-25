@@ -41,7 +41,7 @@ projects:
   id: "projects"
 
   content:
-    title: "Recent projects"
+    title: "Projects"
     text: ""
     cards:
       -
@@ -58,6 +58,13 @@ projects:
         button:
           label: "Learn more"
           url: "/activities/scalib"
+
+      -
+        title: "SCALE"
+        text: "SIMPLE-Crypto's training on side-channel analysis and leakage-resistance.<br><strong>Next training: June 10-12, 2024.</strong>"
+        button:
+          label: "Learn more"
+          url: "/activities/scale"
 
 
 portfolio:
