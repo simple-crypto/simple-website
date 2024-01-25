@@ -21,11 +21,11 @@ The training will be in three parts:
 * Maximum number of participants: 20
 * Registration deadlines :
     - March 1, 2024 : deadline for sponsors.
-    - April 1, 2024 : deadline for non-sponsor industry (if there are places left).
+    - April 1, 2024 : deadline for non-sponsor (if there are places left).
     - May 1, 2024, deadline for students (if there are places left)
 * Fees:
     - For bronze and higher-level sponsors: 2 free tickets and 2000 EUR per additional attendee.
-    - For non-sponsor industry attendees: 2500 EUR per attendee.
+    - For non-sponsor attendees: 3000 EUR per attendee.
     - For students: 300 EUR per attendee.
 
     (Fees includes access to the training and training materials, lunch and
