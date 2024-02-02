@@ -1,8 +1,7 @@
-
 hero:
   enabled: true
   id: "hero"
-  
+
   content:
     title: "The **Secure Cryptographic Implementation** Association"
     text: |
@@ -11,7 +10,7 @@ hero:
       - with strong physical security guarantees (e.g., against side-channel and fault attacks),
       - featuring state-of-the art security and performance,
       - maintained in the long-term.
-  
+
 # buttonPrimary:
 #   label: "Our activities"
 #   url: "/activities"
@@ -20,11 +19,10 @@ hero:
 #   label: "Project repositories"
 #   url: "https://github.com/simple-crypto"
 
-
 brands:
-  enabled: true 
+  enabled: true
   id: "brands"
-  
+
   content:
     title: "Supported by"
     items:
@@ -36,7 +34,6 @@ brands:
       - "images/logo_st.png"
       - "images/logo_thales_be.png"
 
-
 projects:
   id: "projects"
 
@@ -44,67 +41,59 @@ projects:
     title: "Projects"
     text: ""
     cards:
-      -
-        title: "SMAesH"
+      - title: "SMAesH"
         text: "SIMPLE-Crypto's Masked AES in hardware. A hardware implementation of the AES with a strong side-channel security countermeasure.<br><strong>Public evaluation ongoing.</strong>"
         button:
           label: "Learn more"
           url: "/activities/smaesh"
-  
-      -
-        # image: "images/services-web-development.png"
+
+      - # image: "images/services-web-development.png"
         title: "SCALib"
         text: "Our Side-Channel Analysis Library. High-performance and easy-to-use implementation of state-of-the-art tools for side-channel security evaluations. "
         button:
           label: "Learn more"
           url: "/activities/scalib"
 
-      -
-        title: "SCALE"
+      - title: "SCALE"
         text: "SIMPLE-Crypto's training on side-channel analysis and leakage-resistance.<br><strong>Next training: June 10-12, 2024.</strong>"
         button:
           label: "Learn more"
           url: "/activities/scale"
 
+announces:
+  enabled: true
+  id: "announces"
 
-portfolio:
-  enabled: false
-  id: "portfolio"
-  
   content:
-    - image: "images/portfolio-ecommerce.png"
-      pretitle: "Portfolio Service"
-      title: "We developed an eCommerce website"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-  
-      buttons: 
-        - label: "See live"
-          url: "#"
-  
-        - label: "Read more"
-          url: "#"
+    - #image: "images/portfolio-ecommerce.png"
+      pretitle: "Ph.D. internships or Post-Docs"
+      title: "Open positions"
+      text: "The UCLouvain Crypto Group is opening two short-term positions (3 to 6 months) to start new SIMPLE-Crypto projects: developing a masked hardware implementation of the Ascon AEAD and developing a software masking of Dilithium for micro-controllers (with possibly other countermeasures). The goal of the project is to research and develop high-quality and well-documented open-source implementations, along with preliminary side-channel security evaluations. The work will take place in the dynamic research environment of the Crypto Group at UCLouvain (Louvain-la-Neuve, Belgium) and the SIMPLE-Crypto team, in collaboration with other Ph.D. students, post-doctoral researchers and professors. The candidates should have experience in physical side-channel security and have strong implementation skills (hardware or micro-controller programming, depending on the chosen project). Remote work is possible. "
 
+      buttons:
+        - label: "Contact us"
+          url: "mailto:gaetan.cassiers@uclouvain.be"
 
 testimonials:
   enabled: false
   id: "testimonials"
-  
+
   content:
     title: "Testimonials"
-  
+
     featured:
       image: "images/testimonials-awards.png"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
       client: "Anonymous Customer"
-  
+
     list:
       - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
         client: "Anonymous Customer"
 
 cta:
-  enabled: false 
+  enabled: false
   id: "cta"
-  
+
   content:
     title: "Start your business now!"
     image: "images/services-web-development.png"
