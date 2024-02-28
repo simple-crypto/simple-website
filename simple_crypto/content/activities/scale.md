@@ -18,11 +18,11 @@ The training will be in three parts:
 
 * Next date: **June 10 - June 12, 2024**
 * Venue: Martin’s Louvain-le-Neuve (rue de l'Hocaille 1, 1348 Ottignies-Louvain-la-Neuve)
-* Maximum number of participants: 20
-* Registration deadlines :
-    - March 1, 2024 : deadline for sponsors.
-    - April 1, 2024 : deadline for non-sponsor (if there are places left).
-    - May 1, 2024, deadline for students (if there are places left)
+* Maximum number of participants: 20 (registration on a first-come, first-served basis).
+* Registration dates:
+    - Until March 1, 2024 : only sponsors.
+    - March 1, 2024 to April 15, 2024 : non-student registrations.
+    - April 15, 2024 to May 9, 2024: open to all (if there are places left)
 * Fees:
     - For bronze and higher-level sponsors: 2 free tickets and 2000 EUR per additional attendee.
     - For non-sponsor attendees: 3000 EUR per attendee.
