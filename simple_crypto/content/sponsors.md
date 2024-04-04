@@ -31,6 +31,11 @@ cases are discussed by the association board.
 
 # Current sponsors
 
+## Bronze-level
+
+* [Autorité Nationale de Sécurité - Nationale Veiligheidsoverheid](https://www.nvoans.be/)
+* [STMicroelectronics](https://st.com)
+
 ## Supporter-level
 
 * [Cryptoexperts](https://cryptoexperts.com)
@@ -38,7 +43,6 @@ cases are discussed by the association board.
 * [NIST](https://nist.gov)
 * [NXP Semiconductors](https://nxp.com)
 * [PQShield](https://pqshield.com)
-* [STMicroelectronics](https://st.com)
 * [Thales Belgium](https://www.thalesgroup.com/en/countries/europe/thales-belgium)
 
 <!--**List of sponsors**-->
