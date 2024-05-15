@@ -33,7 +33,9 @@ cases are discussed by the association board.
 
 ## Bronze-level
 
-* [Autorité Nationale de Sécurité - Nationale Veiligheidsoverheid](https://www.nvoans.be/)
+* [ANSSI](https://cyber.gouv.fr)
+* [Autorité Nationale de Sécurité - Nationale Veiligheidsoverheid](https://www.nvoans.be)
+* [Google](https://about.google)
 * [STMicroelectronics](https://st.com)
 
 ## Supporter-level

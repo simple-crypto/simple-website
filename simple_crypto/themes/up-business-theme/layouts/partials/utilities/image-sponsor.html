@@ -1,5 +1,5 @@
 {{ $image := resources.Get . }}
 {{ $image := $image.Resize "x400" }}
 {{ with $image }}
-  <img class="img-fluid" src="{{ .Permalink }}">
+  <img style="object-fit:contain;width:10rem;height:5rem;margin:0.8rem" src="{{ .Permalink }}">
 {{ end }}
