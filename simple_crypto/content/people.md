@@ -7,11 +7,13 @@ aliases: ["scientific-council", "team"]
 
 The following people lead the various projects of SIMPLE-Crypto.
 
-* [Olivier Bronchain](https://obronchain.github.io): trainings, (formerly) evaluation library
 * [Gaëtan Cassiers](https://perso.cassiersg.be): evaluation library, hardware implementations
-* [Charles Momin](https://dblp.org/pid/258/9153.html): hardware implementations
+* [Charles Momin](https://dblp.org/pid/258/9153.html): hardware implementations, trainings
 * [François-Xavier Standaert](https://perso.uclouvain.be/fstandae/): trainings
+
+Alumni:
 * [Balazs Udvarhelyi](https://dblp.uni-trier.de/pid/271/5385.html): evaluation library
+* [Olivier Bronchain](https://obronchain.github.io): evaluation library
 
 All our projects are open to external [contributions](/contributing).
 
