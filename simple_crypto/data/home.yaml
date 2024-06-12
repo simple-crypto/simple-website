@@ -58,7 +58,7 @@ projects:
           url: "/activities/scalib"
 
       - title: "SCALE"
-        text: "SIMPLE-Crypto's training on side-channel analysis and leakage-resistance.<br><strong>Next training: June 10-12, 2024.</strong>"
+        text: "SIMPLE-Crypto's training on side-channel analysis and leakage-resistance.<br><strong>Next training: to be announced.</strong>"
         button:
           label: "Learn more"
           url: "/activities/scale"
@@ -68,14 +68,14 @@ announces:
   id: "announces"
 
   content:
-    - #image: "images/portfolio-ecommerce.png"
-      pretitle: "Ph.D. internships or Post-Docs"
-      title: "Open positions"
-      text: "The UCLouvain Crypto Group is opening two short-term positions (3 to 6 months) to start new SIMPLE-Crypto projects: developing a masked hardware implementation of the Ascon AEAD and developing a software masking of Dilithium for micro-controllers (with possibly other countermeasures). The goal of the project is to research and develop high-quality and well-documented open-source implementations, along with preliminary side-channel security evaluations. The work will take place in the dynamic research environment of the Crypto Group at UCLouvain (Louvain-la-Neuve, Belgium) and the SIMPLE-Crypto team, in collaboration with other Ph.D. students, post-doctoral researchers and professors. The candidates should have experience in physical side-channel security and have strong implementation skills (hardware or micro-controller programming, depending on the chosen project). Remote work is possible. "
-
-      buttons:
-        - label: "Contact us"
-          url: "mailto:gaetan.cassiers@uclouvain.be"
+    #    - #image: "images/portfolio-ecommerce.png"
+    #      pretitle: "Ph.D. internships or Post-Docs"
+    #      title: "Open positions"
+    #      text: "The UCLouvain Crypto Group is opening two short-term positions (3 to 6 months) to start new SIMPLE-Crypto projects: developing a masked hardware implementation of the Ascon AEAD and developing a software masking of Dilithium for micro-controllers (with possibly other countermeasures). The goal of the project is to research and develop high-quality and well-documented open-source implementations, along with preliminary side-channel security evaluations. The work will take place in the dynamic research environment of the Crypto Group at UCLouvain (Louvain-la-Neuve, Belgium) and the SIMPLE-Crypto team, in collaboration with other Ph.D. students, post-doctoral researchers and professors. The candidates should have experience in physical side-channel security and have strong implementation skills (hardware or micro-controller programming, depending on the chosen project). Remote work is possible. "
+    #
+    #      buttons:
+    #        - label: "Contact us"
+    #          url: "mailto:gaetan.cassiers@uclouvain.be"
 
 testimonials:
   enabled: false

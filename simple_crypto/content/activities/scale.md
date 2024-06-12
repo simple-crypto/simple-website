@@ -14,6 +14,9 @@ The training will be in three parts:
 * **SCALE-II** is on leakage-resistance (security definitions, model-level countermeasures and primitive-level countermeasures).
 * **SCALE-III** is on secure implementations (in software and hardware).
 
+**Next event:** to be announced.
+
+<!--
 **SCALE-I details:**
 
 * Next date: **June 10 - June 12, 2024**
@@ -32,4 +35,7 @@ The training will be in three parts:
     coffee breaks. For Belgian-located sponsors and attendees, we additionally
     charge the VAT).
 * Contact for registration: [info@simple-crypto.dev](mailto:info@simple-crypto.dev).
+-->
 
+**Past events:**
+- SCALE-I, June 10-12, 2024 (Martin's Louvain-la-Neuve).
