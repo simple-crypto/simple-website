@@ -29,7 +29,7 @@ bronze sponsorship and to a non-copyleft license for one code project of the ass
 
 * **PLATINIUM-level**. This level is for sponsors interested in the development
 of a new code project in collaboration with SIMPLE-Crypto. Contact us to
-discuss your projects an collaboration opportunities.
+discuss your projects and collaboration opportunities.
 
 Monetary sponsoring can be (in parts) replaced by other contributions (e.g., in-kind). Those
 cases are discussed by the association board.
