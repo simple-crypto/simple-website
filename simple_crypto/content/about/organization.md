@@ -73,19 +73,12 @@ For projects with multiple versions, each version goes through the process descr
 The type of license under which SIMPLE-Crypto implementations are released depends on
 the project stage:
 * For the development and public evaluation stages, we use only copyleft licenses. Precisely,
-we use the GPLv3 license for software developments and CERN OHL-S for hardware developments.
+we use the (A)GPLv3 license for software developments and CERN OHL-S for hardware developments.
 * During the gold sponsoring stage, we use a dual licensing approach. Codes are available under the 
 same copyleft license as for the development and public evaluation stages for open source developments. 
 Gold sponsoring gives access to a yearly non-copyleft license for commercial closed source developments.
-Precisely, sponsors are granted a yearly MIT-like license during the gold sponsoring. 
-* When final release takes place, the codes become available for the whole community
-under a perpetual non-copyleft licenses. Precisely, we use a MIT-like license for both software and
-hardware developments. 
+Precisely, sponsors are granted a yearly non-copyleft license during the gold sponsoring (which becomes perpetual after five years). 
 
-Our evaluation tools are published under a copyleft license, namely the AGPLv3.
-They will not be released under a perpetual non-copyleft license because we expect
-tools to be continuously updated.
-Silver sponsoring grants access to a yearly non-copyleft licence.
 
 **Contributions welcome**
 We welcome contributions to our projects! In order to enable the licensing
