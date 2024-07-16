@@ -63,7 +63,7 @@ to sponsors. Their public release may be delayed. In case security flaws imply
 a need of re-design, this re-design is automatically suggested as a potential development
 for the coming year. 
 * **Final release** Once the code has been gold-sponsored 
-for 5 years, it is released under a non-copyleft license for the whole community.
+for 5 years, it is released under a non-copyleft license for the sponsor.
 
 For projects with multiple versions, each version goes through the process described above, possibly with a more lightweight public evaluation stage. Gold sponsoring for a project gives access to all the versions, but each version has its own 5-year counter for the final release.
 
