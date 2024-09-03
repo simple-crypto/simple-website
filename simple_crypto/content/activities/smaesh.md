@@ -30,3 +30,4 @@ Get the
 
 - [v1.0.0](https://github.com/simple-crypto/SMAesH/releases/tag/v1.0.0) (Jun 15, 2023)
 - [v1.0.1](https://github.com/simple-crypto/SMAesH/releases/tag/v1.0.1) (Apr 28, 2023)
+- [v1.1.0](https://github.com/simple-crypto/SMAesH/releases/tag/v1.1.0) (Sep 02, 2024)
