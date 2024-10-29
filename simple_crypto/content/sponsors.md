@@ -33,7 +33,7 @@ discuss your projects and collaboration opportunities.
 
 Monetary sponsoring can be (in parts) replaced by other contributions (e.g., in-kind). Those
 cases are discussed by the association board. The yearly gold sponsoring can be replaced
-by a single-short gold sponsoring upon request.
+by a single-shot gold sponsoring upon request.
 
 # Current sponsors
 
