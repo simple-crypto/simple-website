@@ -14,14 +14,14 @@ collected sufficient sponsoring.
 ## Yearly schedule of the association {#schedule}
 
 A typical year of the SIMPLE-Crypto Association follows four main steps:
-* **Yearly report** The contributors of the association write a report
+* **Yearly report.** The contributors of the association write a report
   describing yearly progresses.   
-* **Sponsors' workshop** Sponsors meet during an annual workshop to discuss 
+* **Sponsors' workshop.** Sponsors meet during an annual workshop to discuss 
 the report and identify promising developments. The report is updated based on this feedback,
  with a list of potential plans for the next year.
-* **Scientific council** The scientific council reviews the proposed developments
+* **Scientific council.** The scientific council reviews the proposed developments
 and establishes a priority list of projects (with a tentative  time budget). It also makes suggestions of developers to contact. The report is updated based on this feedack.
-* **Projects selection** The association board approves the report which is published on the SIMPLE-Crypto website. 
+* **Projects selection.** The association board approves the report which is published on the SIMPLE-Crypto website. 
 Developers are contacted to work on the projects of the priority list by the association's contact points
 (see the people tag) and open source projects are launched (e.g., via internships or other relevant means) 
 for one year given the budget constraints.
@@ -36,7 +36,7 @@ background or convincing proofs-of-concept from the academic literature).
 ## Lifetime of the association's projects {#lifetime}
 
 The typical lifetime of an open source project follows the following stages:
-* **Development** The selected projects are 
+* **Development.** The selected projects are 
 developed towards prototype codes with accurate documentation and test vectors. Their
 (e.g., physical) security is evaluated internally, by the association's
 researchers. More precisely:
@@ -45,12 +45,12 @@ researchers. More precisely:
 in order to facilitate worst-case physical security evaluations.
 	* Preliminary security evaluation based on the open source evaluation tools
 of the association ends with a report describing the best attack vectors found.
-* **Public evaluation** The prototype code is released 
+* **Public evaluation.** The prototype code is released 
 under a copyleft licence together with its documentation, prediction tool and
 preliminary security evaluation report. A challenge is organized 
 based on public data sets, linked to scientific conferences whenever possible.
 A call for contributions aiming at improving the code is open.
-* **Gold sponsoring** The code is used in industrial projects.
+* **Gold sponsoring.** The code is used in industrial projects.
 The gold sponsoring enables its integration under
 a non-copyleft license during the membership year, while it remains available under a copyleft license
 for open source developments, which we denote as dual licensing.
@@ -61,14 +61,14 @@ Flaws are first communicated to the association and forwarded
 to sponsors. Their public release may be delayed. In case security flaws imply
 a need of re-design, this re-design is automatically suggested as a potential development
 for the coming year. 
-* **Final release** Once the code has been gold-sponsored 
+* **Final release.** Once the code has been gold-sponsored 
 for 5 years, it is released under a non-copyleft license for the sponsor.
 
 For projects with multiple versions, each version goes through the process described above, possibly with a more lightweight public evaluation stage. Gold sponsoring for a project gives access to all the versions, but each version has its own 5-year counter for the final release.
 
 ## Intellectual property policy of the association {#licenses}
 
-**Licensing of SIMPLE-Crypto implementations**
+**Licensing of SIMPLE-Crypto implementations.**
 The type of license under which SIMPLE-Crypto implementations are released depends on
 the project stage:
 * For the development and public evaluation stages, we use only copyleft licenses. Precisely,
@@ -79,12 +79,12 @@ Gold sponsoring gives access to a yearly non-copyleft license for commercial clo
 Precisely, sponsors are granted a yearly non-copyleft license during the gold sponsoring (which becomes perpetual after five years). 
 
 
-**Contributions welcome**
+**Contributions welcome.**
 We welcome contributions to our projects! In order to enable the licensing
 model explained above, we require contritubotors to signe a Contributor License
 Agreement (CLA), see [the contributing page](/contributing) for more details.
 
-**Patents**
+**Patents.**
 The SIMPLE-Crypto Association does not fill patents.
 Our developments are all based on peer-reviewed published solutions and are either free of patents 
 or should become free of patents in the long term. In the mid term, code projects are
