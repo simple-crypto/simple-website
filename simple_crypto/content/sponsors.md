@@ -47,6 +47,7 @@ by a single-shot gold sponsoring upon request.
 ## Supporter-level
 
 * [Cryptoexperts](https://cryptoexperts.com)
+* [lowRISC](https://lowrisc.org/)
 * [Ninjalab](https://ninjalab.io)
 * [NIST](https://nist.gov)
 * [NXP Semiconductors](https://nxp.com)
