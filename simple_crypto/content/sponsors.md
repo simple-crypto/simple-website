@@ -27,7 +27,7 @@ bronze sponsorship and to a non-copyleft license for one code project of the ass
     the 2nd project, 18k€ for the 3rd one, 12k€ for the 4th one and 6k€ for all
     the following ones). 
 
-* **PLATINIUM-level**. This level is for sponsors interested in the development
+* **PLATINIUM-level / Custom sponsorship**. This level is for sponsors interested in the development
 of a new code project in collaboration with SIMPLE-Crypto. Contact us to
 discuss your projects and collaboration opportunities.
 

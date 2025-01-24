@@ -11,6 +11,7 @@ implementations of cryptographic algorithms in embedded systems.
 
 * [**SMAesH**](/activities/smaesh) A hardware implementation of the AES block cipher with masking as a countermeasure against side-channel attacks.
 * [**SCALib**](/activities/scalib) SIMPLE's Side-Channel evaluation library.
+* [**PQM4 masked**](/activities/pqm4_masked) Masked implementation of post-quantum algorithms.
 * *More to come!* 
 
 ## Trainings
@@ -18,7 +19,7 @@ implementations of cryptographic algorithms in embedded systems.
 The SIMPLE-Crypto Association organizes trainings in order to help
 designers integrating our open source solutions in their products.
 
-* [**SCALE**](/activities/scale) SIMPLE's training on side-channel analysis and leakage-resistance (next: to be announced).
+* [**SCALE**](/activities/scale) SIMPLE's training on side-channel analysis and leakage-resistance (next: June 2-4, 2025).
 
 ## Activity reports
 
