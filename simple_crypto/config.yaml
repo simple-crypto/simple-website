@@ -12,7 +12,7 @@ params:
   title: "SIMPLE Crypto"
   description: ""
   title_footer: false
-  images: 
+  images:
     - "images/hero-image.png"
 
       #  logo: "arrow-up.png"
@@ -69,10 +69,10 @@ menus:
       weight: 5
       pre: "btn btn-primary text-light"
 
-        #  footer:
-        #    - name: "Home"
-        #      url: "/#hero"
-        #      weight: 1
+  footer:
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/company/simple-crypto-association/"
+      weight: 1
 
 #module:
 #  mounts:
