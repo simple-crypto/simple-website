@@ -24,8 +24,8 @@ The training will be in three parts:
 * Venue: Martin’s Louvain-le-Neuve (rue de l'Hocaille 1, 1348 Ottignies-Louvain-la-Neuve)
 * Maximum number of participants: 20 (registration on a first-come, first-served basis).
 * Registration dates:
-    - Until March 1, 2024 : only sponsors.
-    - March 1, 2024 to April 21, 2024 : open to all.
+    - Until March 1, 2025 : only sponsors.
+    - March 1, 2025 to May 9, 2025 : open to all.
 * Fees:
     - For bronze and higher-level sponsors: 2 free tickets and 2000 EUR per additional attendee.
     - For non-sponsor attendees: 3500 EUR per attendee.
