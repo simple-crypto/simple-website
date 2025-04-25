@@ -29,6 +29,7 @@ The training will be in three parts:
 * Fees:
     - For bronze and higher-level sponsors: 2 free tickets and 2000 EUR per additional attendee.
     - For non-sponsor attendees: 3500 EUR per attendee.
+    - For students: 400 EUR (registrations for students open on May 1st).
 
     (Fees includes access to the training and training materials, lunch and
     coffee breaks. For Belgian-located sponsors and attendees, we additionally
