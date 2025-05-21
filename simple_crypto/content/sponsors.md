@@ -37,15 +37,20 @@ by a single-shot gold sponsoring upon request.
 
 # Current sponsors
 
+## Gold-level
+
+* [Poetic Technologies](https://poeticte.ch)
+* [Thales Belgium](https://www.thalesgroup.com/en/countries/europe/thales-belgium)
+
 ## Bronze-level
 
-* [ANSSI](https://cyber.gouv.fr)
-* [Autorité Nationale de Sécurité - Nationale Veiligheidsoverheid](https://www.nvoans.be)
 * [Google](https://about.google)
 * [STMicroelectronics](https://st.com)
 
 ## Supporter-level
 
+* [ANSSI](https://cyber.gouv.fr)
+* [Autorité Nationale de Sécurité - Nationale Veiligheidsoverheid](https://www.nvoans.be)
 * [Cryptoexperts](https://cryptoexperts.com)
 * [Intel](https://intel.com)
 * [lowRISC](https://lowrisc.org/)
@@ -53,7 +58,6 @@ by a single-shot gold sponsoring upon request.
 * [NIST](https://nist.gov)
 * [NXP Semiconductors](https://nxp.com)
 * [PQShield](https://pqshield.com)
-* [Thales Belgium](https://www.thalesgroup.com/en/countries/europe/thales-belgium)
 
 <!--**List of sponsors**-->
 
