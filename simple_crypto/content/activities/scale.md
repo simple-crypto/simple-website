@@ -20,12 +20,10 @@ The training will be in three parts:
 
 **SCALE-I details:**
 
-* Next date: **June 2-4, 2025**
-* Venue: Martin’s Louvain-le-Neuve (rue de l'Hocaille 1, 1348 Ottignies-Louvain-la-Neuve)
+* Next date: TBA
+* Venue: TBA
 * Maximum number of participants: 20 (registration on a first-come, first-served basis).
-* Registration dates:
-    - Until March 1, 2025 : only sponsors.
-    - March 1, 2025 to May 9, 2025 : open to all.
+* Registration dates: TBA
 * Fees:
     - For bronze and higher-level sponsors: 2 free tickets and 2000 EUR per additional attendee.
     - For non-sponsor attendees: 3500 EUR per attendee.
@@ -37,4 +35,5 @@ The training will be in three parts:
 * Contact for registration: [info@simple-crypto.dev](mailto:info@simple-crypto.dev).
 
 **Past events:**
+- SCALE-I, June 02-04, 2025 (Martin's Louvain-la-Neuve).
 - SCALE-I, June 10-12, 2024 (Martin's Louvain-la-Neuve).
