@@ -12,10 +12,10 @@ Scientific publications introduce [the masking approach and the Kyber implementa
 a [Dilithium implementation](https://doi.org/10.46586/tches.v2023.i4.58-79).
 
 Current status:
-- [Lifetime stage](/about/organization#lifetime): Development (in progress - Kyber768 done).
+- [Lifetime stage](/about/organization#lifetime): Development (in progress - Kyber768 and dilithium3 done).
 
 Get the
-- [Source code](https://github.com/uclcrypto/pqm4_masked)
+- [Source code](https://github.com/simple-crypto/pqm4_masked)
 
 **Releases**:
 
