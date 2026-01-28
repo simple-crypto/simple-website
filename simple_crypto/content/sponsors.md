@@ -39,7 +39,6 @@ by a single-shot gold sponsoring upon request.
 
 ## Gold-level
 
-* [Poetic Technologies](https://poeticte.ch)
 * [Thales Belgium](https://www.thalesgroup.com/en/countries/europe/thales-belgium)
 
 ## Bronze-level
@@ -57,6 +56,7 @@ by a single-shot gold sponsoring upon request.
 * [Ninjalab](https://ninjalab.io)
 * [NIST](https://nist.gov)
 * [NXP Semiconductors](https://nxp.com)
+* [Poetic Technologies](https://poeticte.ch)
 * [PQShield](https://pqshield.com)
 
 <!--**List of sponsors**-->
