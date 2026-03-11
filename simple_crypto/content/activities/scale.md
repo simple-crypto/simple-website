@@ -14,9 +14,7 @@ The training will be in three parts:
 * **SCALE-II** is on leakage-resistance (security definitions, model-level countermeasures and primitive-level countermeasures).
 * **SCALE-III** is on secure implementations (in software and hardware).
 
-<!--
-**Next event:** June 2-4, 2025.
--->
+**Next event:** September 14-16, 2026. (More info TBA.)
 
 **SCALE-I details:**
 
