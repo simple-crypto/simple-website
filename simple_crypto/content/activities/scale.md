@@ -16,7 +16,7 @@ The training will be in three parts:
 
 **Next event:** September 14-16, 2026. (More info TBA.)
 
-**SCALE-I details:**
+**SCALE details:**
 
 * Next date: TBA
 * Venue: TBA
