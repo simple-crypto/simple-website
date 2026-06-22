@@ -3,21 +3,22 @@ title: SCALE
 ---
 
 SCALE (standing for Side-Channel Analysis and Leakage Explorations) is
-SIMPLE-Crypto’s training on side-channel analysis and leakage-resistance.  It
-aims to help designers integrating our open source solutions in their products
-and more generally to provide the theoretical and practical background needed
+SIMPLE-Crypto’s training on side-channel analysis and leakage-resistance.
+It aim to provide the theoretical and practical background needed
 to design implementations with strong embedded security guarantees.
 
-The training will be in three parts:
+The training will be split in three parts:
 
-* **SCALE-I** is on side-channel analysis basics (evaluation tools and theoretical background).
-* **SCALE-II** is on leakage-resistance (security definitions, model-level countermeasures and primitive-level countermeasures).
-* **SCALE-III** is on secure implementations (in software and hardware).
+* **SCALE-I** is on side-channel analysis (theoretical background, evaluation tools and methodology).
+* **SCALE-II** is on leakage-resistance (security properties, model-level countermeasures and primitive-level countermeasures for symmetric and asymmetric/post-quantum cryptography).
+* **SCALE-III** is on secure implementations (particular challenges in software and hardware).
+
+Trainings consist in a mix of theoretical sessions and exercises. Reference material is provided.
 
 **Next event:** SCALE-II.
 
 * Next date: September 14-16, 2026.
-* Venue: Martin’s Louvain-le-Neuve (rue de l'Hocaille 1, 1348 Ottignies-Louvain-la-Neuve)
+* Venue: Martin’s Louvain-la-Neuve (rue de l'Hocaille 1, 1348 Ottignies-Louvain-la-Neuve, Belgium)
 * Maximum number of participants: 20 (registration on a first-come, first-served basis).
 * Registration dates: open now!
 * Fees:
