@@ -40,7 +40,7 @@ by a single-shot gold sponsoring upon request.
 ## Gold-level
 
 * [Thales Belgium](https://www.thalesgroup.com/en/countries/europe/thales-belgium)
-* [PBS Foundation](https://foundation.pbs.org/)
+* [PBS Foundation](https://pbs.foundation)
 
 ## Bronze-level
 
