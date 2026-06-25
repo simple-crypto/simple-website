@@ -33,7 +33,7 @@ params:
   contact:
     - '<a href="mailto:info@simple-crypto.org">info@simple-crypto.org</a>'
 
-  copyright: '© 2023 SIMPLE Crypto (<a href="https://gitlab.com/writeonlyhugo/up-business-demo">webiste template</a>)'
+  copyright: '© 2023 SIMPLE Crypto (<a href="https://gitlab.com/writeonlyhugo/up-business-demo">website template</a>)'
 
   postProcess: false
 
