@@ -22,18 +22,18 @@ Trainings consist in a mix of theoretical sessions and exercises. Reference mate
 * Maximum number of participants: 20 (registration on a first-come, first-served basis).
 * Registration dates: open now!
 * Fees:
-    - For bronze and higher-level sponsors: 2 free tickets and 2000 EUR per additional attendee.
-    - For non-sponsor attendees: 3500 EUR per attendee.
+    - For bronze and higher-level members: 2 free tickets and 2000 EUR per additional attendee.
+    - For non-member attendees: 3500 EUR per attendee.
     - For students without company affiliation: 400 EUR (registrations for students open on August 1st).
 
     (Fees includes access to the training and training materials, lunch and
-    coffee breaks. For Belgian-located sponsors and attendees, we additionally
+    coffee breaks. For Belgian-located members and attendees, we additionally
     charge the VAT.)
 * Contact for registration and information: [info@simple-crypto.dev](mailto:info@simple-crypto.dev).
 
 **Future events:**
 Let us know if you are interested in attending future SCALE events, also
-consider [joining us as sponsor](/sponsors) to discuss topic priorities.
+consider [joining us as member](/members) to discuss topic priorities.
 
 **Past events:**
 - SCALE-I, June 02-04, 2025 (Martin's Louvain-la-Neuve).

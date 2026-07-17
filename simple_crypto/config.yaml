@@ -55,8 +55,8 @@ menus:
       url: "/people"
       weight: 4
 
-    - name: "Sponsors"
-      url: "/sponsors"
+    - name: "Members"
+      url: "/members"
       weight: 5
 
     - name: "Contributing"

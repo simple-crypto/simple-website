@@ -9,18 +9,18 @@ different partners. At high level, we
 start funding researchers (possibly co-affiliated with 
 other research institutes or universities) to evaluate and maintain the
 codes once our scientific council expressed sufficient interest and we
-collected sufficient sponsoring.
+collected sufficient funding.
 
 ## Yearly schedule of the association {#schedule}
 
 A typical year of the SIMPLE-Crypto Association follows four main steps:
 * **Yearly report.** The contributors of the association write a report
   describing yearly progresses.   
-* **Sponsors' workshop.** Sponsors meet during an annual workshop to discuss 
+* **Members' workshop.** Members meet during an annual workshop to discuss 
 the report and identify promising developments. The report is updated based on this feedback,
  with a list of potential plans for the next year.
 * **Scientific council.** The scientific council reviews the proposed developments
-and establishes a priority list of projects (with a tentative  time budget). It also makes suggestions of developers to contact. The report is updated based on this feedack.
+and establishes a priority list of projects (with a tentative  time budget). It also makes suggestions of developers to contact. The report is updated based on this feedback.
 * **Projects selection.** The association board approves the report which is published on the SIMPLE-Crypto website. 
 Developers are contacted to work on the projects of the priority list by the association's contact points
 (see the people tag) and open source projects are launched (e.g., via internships or other relevant means) 
@@ -50,21 +50,20 @@ under a copyleft licence together with its documentation, prediction tool and
 preliminary security evaluation report. A challenge is organized 
 based on public data sets, linked to scientific conferences whenever possible.
 A call for contributions aiming at improving the code is open.
-* **Gold sponsoring.** The code is used in industrial projects.
-The gold sponsoring enables its integration under
+* **Usage by members.** The code is used in industrial projects.
+The gold membership enables its integration under
 a non-copyleft license during the membership year, while it remains available under a copyleft license
 for open source developments, which we denote as dual licensing.
-As long as a code is gold-sponsored, the detection of security flaws 
+As long as a code is used by gold members, the detection of security flaws 
 goes through a separate incident response process, following standard responsible
 disclosure practice and rewarded by bug bounties.
 Flaws are first communicated to the association and forwarded
-to sponsors. Their public release may be delayed. In case security flaws imply
+to members. Their public release may be delayed. In case security flaws imply
 a need of re-design, this re-design is automatically suggested as a potential development
-for the coming year. 
-* **Final release.** Once the code has been gold-sponsored 
-for 5 years, it is released under a non-copyleft license for the sponsor.
+for the coming year.
+The non-copyleft license for gold members becomes perpetual after 5 continuous years of gold membership.
 
-For projects with multiple versions, each version goes through the process described above, possibly with a more lightweight public evaluation stage. Gold sponsoring for a project gives access to all the versions, but each version has its own 5-year counter for the final release.
+For projects with multiple versions, each version goes through the process described above, possibly with a more lightweight public evaluation stage. Gold membership for a project gives access to all the versions, but each version has its own 5-year counter.
 
 ## Intellectual property policy of the association {#licenses}
 
@@ -73,10 +72,10 @@ The type of license under which SIMPLE-Crypto implementations are released depen
 the project stage:
 * For the development and public evaluation stages, we use only copyleft licenses. Precisely,
 we use the (A)GPLv3 license for software developments and CERN OHL-S for hardware developments.
-* During the gold sponsoring stage, we use a dual licensing approach. Codes are available under the 
+* During the member usage stage, we use a dual licensing approach. Codes are available under the 
 same copyleft license as for the development and public evaluation stages for open source developments. 
-Gold sponsoring gives access to a yearly non-copyleft license for commercial closed source developments.
-Precisely, sponsors are granted a yearly non-copyleft license during the gold sponsoring (which becomes perpetual after five years). 
+Gold membership gives access to a yearly non-copyleft license for commercial closed source developments.
+Precisely, members are granted a yearly non-copyleft license during the gold membership (which becomes perpetual after five years). 
 
 
 **Contributions welcome.**
