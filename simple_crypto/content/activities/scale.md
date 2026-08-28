@@ -23,7 +23,7 @@ Trainings consist in a mix of theoretical sessions and exercises. Reference mate
 * Registration dates: open now!
 * Fees:
     - For bronze and higher-level members: 2 free tickets and 2000 EUR per additional attendee.
-    - For non-bronze or higher-level attendees: 3500 EUR per attendee.
+    - For non-bronze or higher-level members: 3500 EUR per attendee.
     - For students without company affiliation: 400 EUR (registrations for students open on August 1st).
 
     (Fees includes access to the training and training materials, lunch and
