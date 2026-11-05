@@ -15,13 +15,14 @@ The training will be split in three parts:
 
 Trainings consist in a mix of theoretical sessions and exercises. Reference material is provided.
 
-**Next event:** SCALE-II.
+**Next event:** SCALE-I.
 
-* Next date: September 14-16, 2026.
+* Date: May 31 - June 2, 2027.
 * Venue: Martin’s Louvain-la-Neuve (rue de l'Hocaille 1, 1348 Ottignies-Louvain-la-Neuve, Belgium)
 * Maximum number of participants: 20 (registration on a first-come, first-served basis).
-* Registration dates: open now!
-* Fees:
+* Registration dates: TBA ([contact us to receive updates](mailto:info@simple-crypto.dev)).
+* Fees: TBA
+<!--
     - For bronze and higher-level members: 2 free tickets and 2000 EUR per additional attendee.
     - For non bronze or higher-level members: 3500 EUR per attendee.
     - For students without company affiliation: 400 EUR (registrations for students open on August 1st).
@@ -29,6 +30,7 @@ Trainings consist in a mix of theoretical sessions and exercises. Reference mate
     (Fees includes access to the training and training materials, lunch and
     coffee breaks. For Belgian-located members and attendees, we additionally
     charge the VAT.)
+-->
 * Contact for registration and information: [info@simple-crypto.dev](mailto:info@simple-crypto.dev).
 
 **Future events:**
@@ -36,5 +38,6 @@ Let us know if you are interested in attending future SCALE events, also
 consider [joining us as member](/members) to discuss topic priorities.
 
 **Past events:**
+- SCALE-II, September 14-16, 2026 (Martin's Louvain-la-Neuve).
 - SCALE-I, June 02-04, 2025 (Martin's Louvain-la-Neuve).
 - SCALE-I, June 10-12, 2024 (Martin's Louvain-la-Neuve).
